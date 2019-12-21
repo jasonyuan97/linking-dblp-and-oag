@@ -11,5 +11,5 @@ with open("mag_venues.txt", "r") as source:
         for line in source:
             dictionary = ast.literal_eval(line)
             if(dictionary["id"] in pairs):
-                normalized = {"id": dictionary["id"], "name": dictionary["NormalizedName"]}
+                normalized = {"id": dictionary["id"], "name": dictionary["NormalizedName"].lower()}
                 target.write(str(normalized)+"\n")
