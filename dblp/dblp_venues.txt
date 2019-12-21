@@ -1,1437 +1,1437 @@
-4or
-;login:
-acm comm. computer algebra
-acm comput. surv.
-acm crossroads
-acm journal of computer documentation
-acm journal of educational resources in computing
-acm journal of experimental algorithmics
-acm queue
-acm sigaccess
-acm sigapl apl quote quad
-acm sigmod anthology
-acm sigmod digital review
-acm sigmod digital symposium collection
-acm sigsam bulletin
-acm sigsoft software engineering notes
-acm standardview
-acm tist
-acm trans. algorithms
-acm trans. asian & low-resource lang. inf. process.
-acm trans. asian lang. inf. process.
-acm trans. comput. log.
-acm trans. comput. syst.
-acm trans. comput.-hum. interact.
-acm trans. database syst.
-acm trans. design autom. electr. syst.
-acm trans. economics and comput.
-acm trans. embedded comput. syst.
-acm trans. graph.
-acm trans. inf. syst.
-acm trans. inf. syst. secur.
-acm trans. internet techn.
-acm trans. management inf. syst.
-acm trans. math. softw.
-acm trans. model. comput. simul.
-acm trans. priv. secur.
-acm trans. program. lang. syst.
-acm trans. social computing
-acm trans. softw. eng. methodol.
-acm trans. spatial algorithms and systems
-ads
-agit journal
-ai commun.
-ai edam
-ai magazine
-ai matters
-ai soc.
-ai in engineering
-ais trans. hum. comput. interact.
-ais trans. replication res.
-aiss
-akce int. j. graphs comb.
-ansi x2h2
-ansi x3h2
-apjor
-arist
-asta wirtschafts- und sozialstatistisches archiv
-acta cybern.
-acta inf.
-acta informatica pragensia
-acta numer.
-ad hoc & sensor wireless networks
-ad hoc networks
-adaptive behaviour
-adv. appl. math.
-adv. artificial intellegence
-adv. artificial neural systems
-adv. bioinformatics
-adv. comput. math.
-adv. data analysis and classification
-adv. fuzzy systems
-adv. human-computer interaction
-adv. internet of things
-adv. model. and simul. in eng. sciences
-adv. numerical analysis
-adv. operations research
-adv. software engineering
-adv. in mm
-adv. in math. of comm.
-advanced engineering informatics
-advanced robotics
-advances in adaptive data analysis
-advances in complex systems
-advances in computers
-advances in computing research
-advances in engineering software
-african j. of inf. & commun. technology
-algorithmic finance
-algorithmic operations research
-algorithmica
-algorithms
-algorithms for molecular biology
-american j. computational mathematics
-american journal of computational linguistics
-angewandte informatik
-ann. math. artif. intell.
-ann. math. logic
-ann. pure appl. logic
-ann. software eng.
-annales umcs, informatica
-annales des télécommunications
-annals or
-annals of gis
-annual reviews in control
-appl. algebra eng. commun. comput.
-appl. comput. syst.
-appl. intell.
-appl. math. lett.
-appl. soft comput.
-applied artificial intelligence
-applied categorical structures
-applied comp. int. soft computing
-applied mathematics and computation
-applied mathematics and computer science
-applied network science
-applied ontology
-arch. math. log.
-archive of formal proofs
-archives and museum informatics
-argument & computation
-ars comb.
-ars math. contemp.
-art discret. appl. math.
-artif. intell.
-artif. intell. law
-artif. intell. research
-artif. intell. rev.
-artificial intelligence in medicine
-artificial life
-aslib j. inf. manag.
-aslib proceedings
-asymptotic analysis
-austr. j. intelligent information processing systems
-australasian j. combinatorics
-australasian j. of inf. systems
-australian computer journal
-autom. softw. eng.
-automatic control and computer sciences
-automatica
-automation and remote control
-automatisierungstechnik
-auton. robots
-autonomous agents and multi-agent systems
-axioms
-biaa
-bit
-bjet
-bmc bioinformatics
-bmc genomics
-bmc med. inf. & decision making
-bmc medical imaging
-bmc systems biology
-behaviour & it
-bell labs technical journal
-big data
-big data research
-bio-algorithms and med-systems
-biodata mining
-bioinformatics
-bioinformatics [ismb/eccb]
-bioinformatics [ismb]
-biological cybernetics
-biomed. signal proc. and control
-biosystems
-brain connectivity
-brain informatics
-briefings in bioinformatics
-bull. acad. polon. sci., sér. sci. math. astronom. phys.
-bulletin of symbolic logic
-bulletin of the eatcs
-bulletin of the igpl
-business & information systems engineering
-business proc. manag. journal
-c&rl
-caai trans. intell. technol.
-cais
-casm
-cejor
-cit
-clei electron. j.
-cmbbe: imaging & visualization
-cmg transactions
-csimq
-cssp
-cvgip: graphical model and image processing
-cvgip: image understanding
-cartographica
-central europ. j. computer science
-chicago j. theor. comput. sci.
-circuits and systems
-cluster computing
-corr
-cognition, technology & work
-cognitive computation
-cognitive processing
-cognitive science
-cognitive systems research
-combinatorica
-combinatorics, probability & computing
-commun. acm
-communication research
-communications and network
-communications in statistics - simulation and computation
-comp. applic. in engineering education
-comp. int. and neurosc.
-comp. math. methods in medicine
-comp. med. imag. and graph.
-comp. opt. and appl.
-comp. and biomed. research
-comp. in bio. and med.
-comp.-aided civil and infrastruct. engineering
-complex systems
-complexity
-compulog newsletter
-comput. geom.
-comput. graph. forum
-comput. j.
-comput. lang.
-comput. manag. science
-comput. meth. in appl. math.
-comput. sci. inf. syst.
-comput. syst. sci. eng.
-computability
-computación y sistemas
-computat. and visualiz. in science
-computation
-computational & mathematical organization theory
-computational biology and chemistry
-computational complexity
-computational intelligence
-computational linguistics
-computational statistics & data analysis
-computational visual media
-computer aided geometric design
-computer applications in the biosciences
-computer architecture letters
-computer communication review
-computer communications
-computer graphics and image processing
-computer languages, systems & structures
-computer methods and programs in biomedicine
-computer music journal
-computer networks
-computer networks and isbn systems
-computer networks and isdn systems
-computer physics communications
-computer science (agh)
-computer science - r&d
-computer science education
-computer science review
-computer speech & language
-computer standards & interfaces
-computer supported cooperative work
-computer vision and image understanding
-computer vision, graphics, and image processing
-computer and information science
-computer und recht
-computer-aided design
-computers
-computers & chemical engineering
-computers & chemistry
-computers & education
-computers & electrical engineering
-computers & geosciences
-computers & graphics
-computers & industrial engineering
-computers & mathematics with applications
-computers & or
-computers & security
-computers and artificial intelligence
-computers and electronics in agriculture
-computers and the humanities
-computers in entertainment
-computers in human behavior
-computers in industry
-computers, environment and urban systems
-computerworld
-computing
-computing systems
-computing and informatics
-computing in science and engineering
-concurrency - practice and experience
-concurrency and computation: practice and experience
-concurrent engineering: r&a
-connect. sci.
-constraints
-contributions to discrete mathematics
-control and cybernetics
-control and intelligent systems
-cryptography
-cryptography and communications
-cryptologia
-cybernetics and human knowing
-cybernetics and systems
-cyberpsy., behavior, and soc. networking
-cybersecurity
-d&d
-d-lib mag.
-darts
-data base
-dsh
-dagstuhl manifestos
-dagstuhl reports
-data
-data knowl. eng.
-data min. knowl. discov.
-data quality journal
-data sci.
-data science journal
-data science and engineering
-data technol. appl.
-database
-datenbank rundbrief
-datenbank-spektrum
-datenschutz und datensicherheit
-decision analysis
-decision analytics
-decision sciences
-decision support systems
-des. codes cryptogr.
-design autom. for emb. sys.
-digital creativity
-digital humanities quarterly
-digital investigation
-digital library perspectives
-digital signal processing
-digital system research center report
-digital technical journal
-discrete & computational geometry
-discrete applied mathematics
-discrete event dynamic systems
-discrete math., alg. and appl.
-discrete mathematics
-discrete mathematics & theoretical computer science
-discrete optimization
-discussiones mathematicae graph theory
-displays
-distributed computing
-distributed systems engineering
-distributed and parallel databases
-document numérique
-dynamic games and applications
-eai endorsed trans. ambient systems
-eai endorsed trans. cloud systems
-eai endorsed trans. cognitive communications
-eai endorsed trans. collaborative computing
-eai endorsed trans. complex systems
-eai endorsed trans. context-aware syst. & appl.
-eai endorsed trans. creative technologies
-eai endorsed trans. energy web
-eai endorsed trans. future intellig. educat. env.
-eai endorsed trans. indust. netw. & intellig. syst.
-eai endorsed trans. mobile communications applications
-eai endorsed trans. pervasive health technol.
-eai endorsed trans. scalable information systems
-eai endorsed trans. security safety
-eai endorsed trans. self-adaptive systems
-eai endorsed trans. serious games
-eai endorsed trans. ubiquitous environments
-eai endorsed trans. wireless spectrum
-eai endorsed trans. e-business
-eai endorsed trans. e-learning
-eait
-eceasst
-eg
-ejgta
-ejis
-emisa forum
-epj data sci.
-ercim news
-eurasip j. adv. sig. proc.
-eurasip j. audio, speech and music processing
-eurasip j. bioinformatics and systems biology
-eurasip j. emb. sys.
-eurasip j. image and video processing
-eurasip j. information security
-eurasip j. wireless comm. and networking
-euro j. computational optimization
-euro j. transportation and logistics
-earth science informatics
-ecological informatics
-education for information
-educational technology & society
-egyptian computer science journal
-electr. j. comb.
-electr. notes theor. comput. sci.
-electron. trans. artif. intell.
-electronic colloquium on computational complexity (eccc)
-electronic commerce research
-electronic commerce research and applications
-electronic markets
-electronic networking: research, applications and policy
-electronic notes in discrete mathematics
-electronic publishing
-elektronische informationsverarbeitung und kybernetik
-elektronische rechenanlagen
-elektrotechnik und informationstechnik
-embedded systems letters
-empirical software engineering
-eng. appl. of ai
-eng. comput. (lond.)
-engineering letters
-enterprise is
-enterprise modelling and information systems architectures
-entertainment computing
-entropy
-environmental modelling and software
-ethics inf. technol.
-eur. j. comb.
-eur. j. control
-european journal of law and technology
-european journal of operational research
-european transactions on telecommunications
-evolutionary computation
-evolutionary intelligence
-evolving systems
-experimental mathematics
-expert syst. appl.
-expert systems
-fdt - bulletin of acm sigfidet
-fdt - bulletin of acm sigmod
-flap
-fo & dm
-finance and stochastics
-finite fields and their applications
-first monday
-formal asp. comput.
-formal methods in system design
-formalized mathematics
-foundations and trends in communications and information theory
-foundations and trends in computer graphics and vision
-foundations and trends in databases
-foundations and trends in electronic design automation
-foundations and trends in human-computer interaction
-foundations and trends in information retrieval
-foundations and trends in information systems
-foundations and trends in machine learning
-foundations and trends in microeconomics
-foundations and trends in networking
-foundations and trends in optimization
-foundations and trends in privacy and security
-foundations and trends in programming languages
-foundations and trends in robotics
-foundations and trends in signal processing
-foundations and trends in stochastic systems
-foundations and trends in systems and control
-foundations and trends in technology, information and operations management
-foundations and trends in theoretical computer science
-foundations and trends in web science
-foundations of computational mathematics
-front. comput. neurosci.
-front. digital humanities
-front. ict
-front. neuroinform.
-front. neurorobot.
-front. robotics and ai
-frontiers comput. sci.
-frontiers comput. sci. china
-frontiers of it & ee
-fundam. inform.
-future generation comp. syst.
-future internet
-fuzzy sets and systems
-gi datenbank rundbrief
-gte laboratories incorporated
-game studies
-games
-games and economic behavior
-genetic programming and evolvable machines
-genomics, proteomics & bioinformatics
-geo-spatial information science
-geoinformatica
-getmobile
-glottometrics
-government information quarterly
-grammars
-graphical models
-graphical models and image processing
-graphs and combinatorics
-grey systems: t&a
-groups complexity cryptology
-hcis
-hmd - praxis wirtschaftsinform.
-health inf. sci. syst.
-health informatics journal
-higher-order and symbolic computation
-history and computing
-human factors
-human-computer interaction
-hydrology and earth system sciences
-hypermedia
-i. j.  computational biology and drug design
-i. j. artificial intelligence in education
-i. j. bifurcation and chaos
-i. j. circuit theory and applications
-i. j. comput. appl.
-i. j. computational biology and drug design
-i. j. computer-supported collaborative learning
-i. j. computers for math. learning
-i. j. functional informatics and personalised medicine
-i. j. humanoid robotics
-i. j. information acquisition
-i. j. knowledge and web intelligence
-i. j. law and information technology
-i. j. medical informatics
-i. j. network security
-i. j. rf technol.: res. and appl.
-i. j. robotics res.
-i. j. robotics and automation
-i. j. social robotics
-i. j. speech technology
-i. j. wireless & optical communications
-iacr cryptology eprint archive
-iacr trans. cryptogr. hardw. embed. syst.
-iacr trans. symmetric cryptol.
-ibis
-ibm journal of research and development
-ibm publication
-ibm research report
-ibm research report, san jose, california
-ibm systems journal
-icga journal
-icst trans. ambient systems
-icst trans. mobile communications applications
-icst trans. security safety
-icst trans. e-education e-learning
-iee proceedings - software
-ieee access
-ieee annals of the history of computing
-ieee caa j. autom. sinica
-ieee cloud computing
-ieee communications letters
-ieee communications magazine
-ieee communications standards magazine
-ieee communications surveys and tutorials
-ieee comp. int. mag.
-ieee computational intelligence bulletin
-ieee computer
-ieee computer graphics and applications
-ieee concurrency
-ieee consumer electronics magazine
-ieee control systems letters
-ieee data eng. bull.
-ieee database eng. bull.
-ieee design & test
-ieee design & test of computers
-ieee distributed systems online
-ieee expert
-ieee geosci. remote sensing lett.
-ieee instrum. meas. mag.
-ieee intell. transport. syst. mag.
-ieee intelligent informatics bulletin
-ieee intelligent systems
-ieee internet computing
-ieee internet of things journal
-ieee j sel. topics in appl. earth observ. and remote sensing
-ieee j. biomedical and health informatics
-ieee j. emerg. sel. topics circuits syst.
-ieee j. robotics and automation
-ieee journal on selected areas in communications
-ieee micro
-ieee multimedia
-ieee network
-ieee p&dt
-ieee personal commun.
-ieee pervasive computing
-ieee robot. automat. mag.
-ieee robotics and automation letters
-ieee security & privacy
-ieee signal process. lett.
-ieee signal process. mag.
-ieee software
-ieee systems journal
-ieee technol. soc. mag.
-ieee trans. acoustics, speech, and signal processing
-ieee trans. aerospace and electronic systems
-ieee trans. affective computing
-ieee trans. audio, speech & language processing
-ieee trans. automat. contr.
-ieee trans. automation science and engineering
-ieee trans. autonomous mental development
-ieee trans. big data
-ieee trans. biomed. circuits and systems
-ieee trans. biomed. engineering
-ieee trans. circuits syst. video techn.
-ieee trans. cloud computing
-ieee trans. cogn. comm. & networking
-ieee trans. cognitive and developmental systems
-ieee trans. communications
-ieee trans. comput. intellig. and ai in games
-ieee trans. comput. social systems
-ieee trans. computational imaging
-ieee trans. computers
-ieee trans. consumer electronics
-ieee trans. contr. sys. techn.
-ieee trans. control of network systems
-ieee trans. cybernetics
-ieee trans. dependable sec. comput.
-ieee trans. education
-ieee trans. electronic computers
-ieee trans. emerging topics comput.
-ieee trans. emerging topics in comput. intellig.
-ieee trans. engineering management
-ieee trans. evolutionary computation
-ieee trans. fuzzy systems
-ieee trans. games
-ieee trans. geoscience and remote sensing
-ieee trans. haptics
-ieee trans. human-machine systems
-ieee trans. image processing
-ieee trans. industrial electronics
-ieee trans. industrial informatics
-ieee trans. information forensics and security
-ieee trans. information technology in biomedicine
-ieee trans. information theory
-ieee trans. instrumentation and measurement
-ieee trans. intelligent transportation systems
-ieee trans. intelligent vehicles
-ieee trans. knowl. data eng.
-ieee trans. med. imaging
-ieee trans. mob. comput.
-ieee trans. multi-scale computing systems
-ieee trans. multimedia
-ieee trans. network science and engineering
-ieee trans. network and service management
-ieee trans. neural netw. learning syst.
-ieee trans. neural networks
-ieee trans. parallel distrib. syst.
-ieee trans. pattern anal. mach. intell.
-ieee trans. prof. communication
-ieee trans. reliability
-ieee trans. robotics
-ieee trans. robotics and automation
-ieee trans. services computing
-ieee trans. signal processing
-ieee trans. signal and information processing over networks
-ieee trans. smart grid
-ieee trans. software eng.
-ieee trans. speech and audio processing
-ieee trans. systems science and cybernetics
-ieee trans. systems, man, and cybernetics
-ieee trans. systems, man, and cybernetics, part a
-ieee trans. systems, man, and cybernetics, part b
-ieee trans. systems, man, and cybernetics, part c
-ieee trans. systems, man, and cybernetics: systems
-ieee trans. vlsi syst.
-ieee trans. vehicular technology
-ieee trans. vis. comput. graph.
-ieee trans. wireless communications
-ieee trans. on cad of integrated circuits and systems
-ieee trans. on circuits and systems
-ieee wireless commun.
-ieee wireless commun. letters
-ieee-rita
-ieee/acm trans. audio, speech & language processing
-ieee/acm trans. comput. biology bioinform.
-ieee/acm trans. netw.
-ieice electronic express
-ieice transactions
-iet biometrics
-iet circuits, devices & systems
-iet communications
-iet computer vision
-iet computers & digital techniques
-iet cyper-phys. syst.: theory & appl.
-iet image processing
-iet information security
-iet networks
-iet signal processing
-iet software
-iet wireless sensor systems
-igtr
-ij3dim
-ijaac
-ijaacs
-ijabim
-ijac
-ijacdt
-ijaci
-ijact
-ijads
-ijaec
-ijaeis
-ijagr
-ijahuc
-ijaip
-ijaisc
-ijal
-ijalr
-ijamc
-ijantti
-ijaom
-ijaose
-ijapr
-ijapuc
-ijaras
-ijart
-ijat
-ijatem
-ijats
-ijavet
-ijbdcn
-ijbdi
-ijbic
-ijbidm
-ijbir
-ijbis
-ijbm
-ijbpim
-ijbpscm
-ijbra
-ijcac
-ijcaet
-ijcallt
-ijcat
-ijcbpl
-ijcc
-ijccbs
-ijcce
-ijcee
-ijcicg
-ijcih
-ijcini
-ijcip
-ijcis
-ijcistudies
-ijclclp
-ijcmam
-ijcnds
-ijcnis
-ijcns
-ijcopi
-ijcsa
-ijcse
-ijcsm
-ijcssa
-ijcvip
-ijcvr
-ijcwt
-ijcrc
-ijdar
-ijdats
-ijdc
-ijdcf
-ijde
-ijdet
-ijdldc
-ijdls
-ijdmb
-ijdmmm
-ijdsn
-ijdsst
-ijdst
-ijdtis
-ijdwm
-ijea
-ijeb
-ijebm
-ijebr
-ijeei
-ijegr
-ijeh
-ijehmc
-ijeis
-ijeoe
-ijep
-ijertcs
-ijes
-ijesdf
-ijesjp
-ijesma
-ijfsa
-ijgbl
-ijgc
-ijgcms
-ijgcrsis
-ijghpc
-ijguc
-ijhac
-ijhcitp
-ijhcr
-ijhisi
-ijhpca
-ijhpcn
-ijhpsa
-ijics
-ijicst
-ijict
-ijicte
-ijicthd
-ijictrda
-ijicot
-ijide
-ijids
-ijidss
-ijiei
-ijiids
-ijiip
-ijiit
-ijimai
-ijimr
-ijipm
-ijipsi
-ijipt
-ijiq
-ijira
-ijirr
-ijiscm
-ijiscram
-ijismd
-ijisp
-ijissc
-ijisscm
-ijisss
-ijista
-ijitbag
-ijitcc
-ijitm
-ijitn
-ijitpm
-ijitsa
-ijitwe
-ijkbo
-ijkdb
-ijkedm
-ijkesdp
-ijkl
-ijkm
-ijksr
-ijkss
-ijlt
-ijma
-ijmbl
-ijmc
-ijmcmc
-ijmdem
-ijmei
-ijmhci
-ijmheur
-ijmic
-ijmir
-ijmis
-ijmlo
-ijmmme
-ijmno
-ijmor
-ijmr
-ijmso
-ijmssc
-ijmstr
-ijmtie
-ijmtm
-ijnc
-ijncr
-ijndc
-ijngc
-ijnmc
-ijnvo
-ijoci
-ijom
-ijopcd
-ijoris
-ijossp
-ijpeds
-ijpop
-ijprai
-ijqaete
-ijrat
-ijrfita
-ijris
-ijrsda
-ijsccps
-ijsda
-ijsdir
-ijsds
-ijse
-ijseus
-ijshc
-ijsi
-ijsir
-ijsita
-ijskd
-ijsmile
-ijsn
-ijsnet
-ijsnm
-ijsnet
-ijsodit
-ijspm
-ijss
-ijssc
-ijssci
-ijsse
-ijssmet
-ijssoe
-ijsss
-ijstm
-ijt
-ijtd
-ijtem
-ijthi
-ijtm
-ijtmcc
-ijuc
-ijuwbcs
-ijvcsn
-ijvple
-ijvr
-ijwa
-ijwbc
-ijwgs
-ijwin
-ijwis
-ijwltt
-ijwmc
-ijwmip
-ijwnbt
-ijwp
-ijws
-ijec
-ima j. math. control & information
-impact comput. sci. eng.
-imwut
-infor
-informs journal on computing
-informs trans. education
-ipol journal
-ipsj trans. computer vision and applications
-ipsj trans. system lsi design methodology
-ire trans. electronic computers
-ire trans. information theory
-irmj
-is management
-isprs int. j. geo-information
-isse
-it & people
-it professional
-it for development
-ita
-itc
-itor
-itssa
-itcon
-iwbs report
-image vision comput.
-in silico biology
-industrial management and data systems
-industrial robot
-inf. & comput. security
-inf. comput.
-inf. manag. comput. security
-inf. process. lett.
-inf. process. manage.
-inf. res.
-inf. retr.
-inf. retr. journal
-inf. sci.
-inf. sec. techn. report
-inf. services and use
-inf. soc.
-inf. syst.
-inf. syst. e-business management
-inf. syst. j.
-inf. wiss. & praxis
-inform., forsch. entwickl.
-informatica (slovenia)
-informatica didactica
-informatica, lith. acad. sci.
-informatics
-informatics in education
-informatik spektrum
-information
-information & management
-information & software technology
-information economics and policy
-information fusion
-information polity
-information security journal: a global perspective
-information storage and retrieval
-information systems frontiers
-information systems research
-information systems security
-information technology and management
-information visualization
-information and control
-information and organization
-information, knowledge, systems management
-informingscij
-ingénierie des systèmes d'information
-inroads
-int j. information management
-int. arab j. inf. technol.
-int. arab j. e-technol.
-int. j. accounting inf. systems
-int. j. adv. comp. techn.
-int. j. applied earth observation and geoinformation
-int. j. approx. reasoning
-int. j. auton. comp.
-int. j. biomedical imaging
-int. j. communication systems
-int. j. comp. sci. sport
-int. j. comput. assist. radiol. surg.
-int. j. comput. geometry appl.
-int. j. comput. intell. syst.
-int. j. comput. linguistics appl.
-int. j. comput. math.
-int. j. comput. proc. oriental lang.
-int. j. comput. syst. signal
-int. j. computer games technology
-int. j. computer integrated manufacturing
-int. j. control
-int. j. cooperative inf. syst.
-int. j. data sci. anal.
-int. j. digital earth
-int. j. digital multimedia broadcasting
-int. j. electronic commerce
-int. j. found. comput. sci.
-int. j. fuzzy logic and intelligent systems
-int. j. fuzzy syst.
-int. j. game theory
-int. j. general systems
-int. j. hum. comput. interaction
-int. j. hum.-comput. stud.
-int. j. hybrid intell. syst.
-int. j. it standards and standardization res.
-int. j. image graphics
-int. j. imaging systems and technology
-int. j. inf. sec.
-int. j. intell. games & simulation
-int. j. intell. syst.
-int. j. intelligence science
-int. j. intelligent computing and cybernetics
-int. j. intelligent transportation systems research
-int. j. machine learning & cybernetics
-int. j. math. mathematical sciences
-int. j. neural syst.
-int. j. online biomed. eng.
-int. j. online eng.
-int. j. pervasive computing and communications
-int. j. reconfig. comp.
-int. j. satellite communications networking
-int. j. semantic computing
-int. j. semantic web inf. syst.
-int. j. serious games
-int. j. software and informatics
-int. j. systems assurance engineering and management
-int. j. systems science
-int. j. web eng. technol.
-int. j. web service res.
-int. j. of applied metaheuristic computing
-int. j. of asian lang. proc.
-int. j. on digital libraries
-int. journal in computer simulation
-int. journal of network management
-int. syst. in accounting, finance and management
-integrated computer-aided engineering
-integration
-inteligencia artificial, revista iberoamericana de inteligencia artificial
-intell. data anal.
-intelligence
-intelligent automation & soft computing
-intelligent decision technologies
-intelligent information management
-intelligent service robotics
-intelligent tutoring media
-intelligenza artificiale
-interact. techn. smart edu.
-interacting with computers
-interactions
-interactive learning environments
-interfaces
-international journal of computational engineering science
-international journal of computational intelligence and applications
-international journal of computer vision
-international journal of geographical information science
-international journal of geographical information systems
-international journal of high speed computing
-international journal of information technology and decision making
-international journal of internet and enterprise management
-international journal of man-machine studies
-international journal of parallel programming
-international journal of shape modeling
-international journal of software engineering and knowledge engineering
-international journal of uncertainty, fuzziness and knowledge-based systems
-international journal on artificial intelligence tools
-internet mathematics
-internet research
-internet technol. lett.
-internet of things
-ixd&a
-j. acm
-j. ais
-j. adv. eng. comput.
-j. adv. inf. fusion
-j. aerospace inf. sys.
-j. algorithms
-j. ambient intelligence and humanized computing
-j. appl. comput. topol.
-j. applied logic
-j. applied mathematics
-j. applied probability
-j. artif. intell. res.
-j. artif. intell. res. (jair)
-j. artif. intell. soft comput. res.
-j. artificial general intelligence
-j. artificial societies and social simulation
-j. autom. reasoning
-j. big data
-j. bioinformatics and computational biology
-j. biomedical semantics
-j. braz. comp. soc.
-j. cases on inf. techn.
-j. cellular automata
-j. cheminformatics
-j. classification
-j. clinical bioinformatics
-j. cloud computing
-j. cognitive neuroscience
-j. comb. optim.
-j. comb. theory, ser. a
-j. comb. theory, ser. b
-j. comm. inform. networks
-j. community informatics
-j. comp. assisted learning
-j. complex networks
-j. complexity
-j. comput. inf. sci. eng.
-j. comput. lang.
-j. comput. meth. in science and engineering
-j. comput. physics
-j. comput. res. dev.
-j. comput. sci. technol.
-j. comput. science
-j. comput. syst. sci.
-j. computational applied mathematics
-j. computational design and engineering
-j. computational engineering
-j. computer virology and hacking techniques
-j. computer-mediated communication
-j. computing in higher education
-j. control. sci. eng.
-j. cryptographic engineering
-j. cryptology
-j. cybersecurity
-j. data semantics
-j. data and information quality
-j. database manag.
-j. digit. inf.
-j. digital forensic practice
-j. digital imaging
-j. discrete algorithms
-j. economic theory
-j. electrical and computer engineering
-j. electron. commerce res.
-j. electron. publ.
-j. electronic imaging
-j. electronic testing
-j. embedded computing
-j. enterprise inf. management
-j. exp. theor. artif. intell.
-j. field robotics
-j. formalized reasoning
-j. franklin institute
-j. funct. program.
-j. geographic information system
-j. global optimization
-j. graph algorithms appl.
-j. graphics tools
-j. graphics, gpu, & game tools
-j. grid comput.
-j. hardware and systems security
-j. heuristics
-j. high speed networks
-j. imaging
-j. inf. sci.
-j. inf. sci. eng.
-j. inf. sec. appl.
-j. inf. technol. theory appl.
-j. inf., comm, ethics in society
-j. inform. and commun. convergence engineering
-j. information security
-j. information systems
-j. information telecommunication
-j. informetrics
-j. innovation in digital ecosystems
-j. instruction-level parallelism
-j. integrated design & process science
-j. integrative bioinformatics
-j. intell. inf. syst.
-j. intellig. transport. systems
-j. intelligent manufacturing
-j. intelligent systems
-j. internet serv. inf. secur.
-j. internet services and applications
-j. knowledge management
-j. language modelling
-j. location based services
-j. log. algebr. meth. program.
-j. log. algebr. program.
-j. log. comput.
-j. log. program.
-j. logic & analysis
-j. london math. society
-j. low power electronics
-j. mach. learn. res.
-j. math. model. algorithms
-j. math. model. algorithms in or
-j. mathematical cryptology
-j. mathematical logic
-j. media psychology
-j. medical systems
-j. mobile multimedia
-j. multimodal user interfaces
-j. multivariate analysis
-j. network syst. manage.
-j. network and computer applications
-j. nonlinear science
-j. num. math.
-j. open source software
-j. optimization theory and applications
-j. org. computing
-j. org. computing and e. commerce
-j. parallel distrib. comput.
-j. philosophical logic
-j. phonetics
-j. priv. confidentiality
-j. prog. lang.
-j. quantum information science
-j. real-time image processing
-j. reliable intelligent environments
-j. riga technical university
-j. robotics
-j. scheduling
-j. sci. comput.
-j. sci. res.
-j. sel. topics signal processing
-j. semantics
-j. sensor technology
-j. sensor and actuator networks
-j. sensors
-j. signal and information processing
-j. simulation
-j. software eng. r&d
-j. solid-state circuits
-j. spatial information science
-j. strategic inf. sys.
-j. symb. comput.
-j. symb. log.
-j. systems & control engineering
-j. systems science & complexity
-j. systems and it
-j. ucs
-j. vis. lang. comput.
-j. visual communication and image representation
-j. visualization
-j. web eng.
-j. web science
-j. web semant.
-j. of it & tourism
-j. of management information systems
-jacic
-jaciii
-jaise
-jamds
-jamia
-jasis
-jasist
-jcis
-jcit
-jcm
-jcp
-jcs
-jcse
-jdcta
-jdfsl
-jdim
-jdmdh
-jeco
-jetc
-jgim
-jidm
-jikm
-jilsa
-jip
-jips
-jise
-jit
-jite
-jitr
-jlcl
-jmpt
-jnc
-jnit
-jnw
-jocch
-joeuc
-jolis
-joop
-jors
-jrm
-jrnal
-jrtpm
-jsat
-jsea
-jsta
-jsw
-jtaer
-jthtl
-juspn
-jvrb
-jocg
-joss
-jossr
-jowua
-journal comp. netw. and communic.
-journal in computer virology
-journal of applied non-classical logics
-journal of approximation theory
-journal of automata, languages and combinatorics
-journal of biomedical informatics
-journal of chemical information and computer sciences
-journal of chemical information and modeling
-journal of chinese language and computing
-journal of circuits, systems, and computers
-journal of communications and networks
-journal of computational biology
-journal of computational chemistry
-journal of computational neuroscience
-journal of computer security
-journal of computer-aided molecular design
-journal of decision systems
-journal of documentation
-journal of functional and logic programming
-journal of geographical systems
-journal of graph theory
-journal of information, law and technology
-journal of intelligent and fuzzy systems
-journal of intelligent and robotic systems
-journal of interconnection networks
-journal of logic, language and information
-journal of mathematical imaging and vision
-journal of multimedia
-journal of object technology
-journal of quantitative linguistics
-journal of research and practice in information technology
-journal of social structure
-journal of software maintenance
-journal of software: evolution and process
-journal of systems architecture
-journal of systems architecture - embedded systems design
-journal of systems integration
-journal of systems and software
-journal of visualization and computer animation
-journal of wscg
-journal of zhejiang university - science c
-kes journal
-ki
-knowl. inf. syst.
-knowl.-based syst.
-knowledge eng. review
-kognitionswissenschaft
-kybernetes
-kybernetik
-kybernetika
-l'objet
-ldv forum
-lilog-memo
-lilog-report
-lites
-llc
-lncs trans. aspect oriented softw. dev.
-lncs trans. modul. compos.
-log in
-loplas
-language resources and evaluation
-language and linguistics compass
-learned publishing
-ledger
-library hi tech
-library trends
-linguamática
-lisp and symbolic computation
-logic & analysis
-logic journal of the igpl
-logica universalis
-logical methods in computer science
-logistics research
-masa
-mcfns
-mcss
-mis quarterly
-mis quarterly executive
-mmi interaktiv
-monet
-mach. vis. appl.
-machine learning
-machine learning and knowledge extraction
-machine translation
-management science
-manufacturing & service operations management
-marketing science
-markup languages
-math. comput.
-math. log. q.
-math. meth. of or
-math. oper. res.
-math. program.
-math. program. comput.
-mathematical social sciences
-mathematical structures in computer science
-mathematical systems theory
-mathematical and computer modelling
-mathematics and computers in simulation
-mathematics in computer science
-mech. translat. & comp. linguistics
-mechanical translation
-mechatronic systems and control
-med. biol. engineering and computing
-medical image analysis
-memetic computing
-meth. of logic in cs
-microelectronics journal
-microelectronics reliability
-micromachines
-microprocessing and microprogramming
-microprocessors
-microprocessors and microsystems
-microprocessors and microsystems - embedded hardware design
-minds and machines
-mobile computing and communications review
-mobile information systems
-modulad
-monte carlo meth. and appl.
-multiagent and grid systems
-multidim. syst. sign. process.
-multimedia syst.
-multimedi
+{'id': 0, 'name': '4or'}
+{'id': 1, 'name': ';login:'}
+{'id': 2, 'name': 'acm comm. computer algebra'}
+{'id': 3, 'name': 'acm comput. surv.'}
+{'id': 4, 'name': 'acm crossroads'}
+{'id': 5, 'name': 'acm journal of computer documentation'}
+{'id': 6, 'name': 'acm journal of educational resources in computing'}
+{'id': 7, 'name': 'acm journal of experimental algorithmics'}
+{'id': 8, 'name': 'acm queue'}
+{'id': 9, 'name': 'acm sigaccess'}
+{'id': 10, 'name': 'acm sigapl apl quote quad'}
+{'id': 11, 'name': 'acm sigmod anthology'}
+{'id': 12, 'name': 'acm sigmod digital review'}
+{'id': 13, 'name': 'acm sigmod digital symposium collection'}
+{'id': 14, 'name': 'acm sigsam bulletin'}
+{'id': 15, 'name': 'acm sigsoft software engineering notes'}
+{'id': 16, 'name': 'acm standardview'}
+{'id': 17, 'name': 'acm tist'}
+{'id': 18, 'name': 'acm trans. algorithms'}
+{'id': 19, 'name': 'acm trans. asian & low-resource lang. inf. process.'}
+{'id': 20, 'name': 'acm trans. asian lang. inf. process.'}
+{'id': 21, 'name': 'acm trans. comput. log.'}
+{'id': 22, 'name': 'acm trans. comput. syst.'}
+{'id': 23, 'name': 'acm trans. comput.-hum. interact.'}
+{'id': 24, 'name': 'acm trans. database syst.'}
+{'id': 25, 'name': 'acm trans. design autom. electr. syst.'}
+{'id': 26, 'name': 'acm trans. economics and comput.'}
+{'id': 27, 'name': 'acm trans. embedded comput. syst.'}
+{'id': 28, 'name': 'acm trans. graph.'}
+{'id': 29, 'name': 'acm trans. inf. syst.'}
+{'id': 30, 'name': 'acm trans. inf. syst. secur.'}
+{'id': 31, 'name': 'acm trans. internet techn.'}
+{'id': 32, 'name': 'acm trans. management inf. syst.'}
+{'id': 33, 'name': 'acm trans. math. softw.'}
+{'id': 34, 'name': 'acm trans. model. comput. simul.'}
+{'id': 35, 'name': 'acm trans. priv. secur.'}
+{'id': 36, 'name': 'acm trans. program. lang. syst.'}
+{'id': 37, 'name': 'acm trans. social computing'}
+{'id': 38, 'name': 'acm trans. softw. eng. methodol.'}
+{'id': 39, 'name': 'acm trans. spatial algorithms and systems'}
+{'id': 40, 'name': 'ads'}
+{'id': 41, 'name': 'agit journal'}
+{'id': 42, 'name': 'ai commun.'}
+{'id': 43, 'name': 'ai edam'}
+{'id': 44, 'name': 'ai magazine'}
+{'id': 45, 'name': 'ai matters'}
+{'id': 46, 'name': 'ai soc.'}
+{'id': 47, 'name': 'ai in engineering'}
+{'id': 48, 'name': 'ais trans. hum. comput. interact.'}
+{'id': 49, 'name': 'ais trans. replication res.'}
+{'id': 50, 'name': 'aiss'}
+{'id': 51, 'name': 'akce int. j. graphs comb.'}
+{'id': 52, 'name': 'ansi x2h2'}
+{'id': 53, 'name': 'ansi x3h2'}
+{'id': 54, 'name': 'apjor'}
+{'id': 55, 'name': 'arist'}
+{'id': 56, 'name': 'asta wirtschafts- und sozialstatistisches archiv'}
+{'id': 57, 'name': 'acta cybern.'}
+{'id': 58, 'name': 'acta inf.'}
+{'id': 59, 'name': 'acta informatica pragensia'}
+{'id': 60, 'name': 'acta numer.'}
+{'id': 61, 'name': 'ad hoc & sensor wireless networks'}
+{'id': 62, 'name': 'ad hoc networks'}
+{'id': 63, 'name': 'adaptive behaviour'}
+{'id': 64, 'name': 'adv. appl. math.'}
+{'id': 65, 'name': 'adv. artificial intellegence'}
+{'id': 66, 'name': 'adv. artificial neural systems'}
+{'id': 67, 'name': 'adv. bioinformatics'}
+{'id': 68, 'name': 'adv. comput. math.'}
+{'id': 69, 'name': 'adv. data analysis and classification'}
+{'id': 70, 'name': 'adv. fuzzy systems'}
+{'id': 71, 'name': 'adv. human-computer interaction'}
+{'id': 72, 'name': 'adv. internet of things'}
+{'id': 73, 'name': 'adv. model. and simul. in eng. sciences'}
+{'id': 74, 'name': 'adv. numerical analysis'}
+{'id': 75, 'name': 'adv. operations research'}
+{'id': 76, 'name': 'adv. software engineering'}
+{'id': 77, 'name': 'adv. in mm'}
+{'id': 78, 'name': 'adv. in math. of comm.'}
+{'id': 79, 'name': 'advanced engineering informatics'}
+{'id': 80, 'name': 'advanced robotics'}
+{'id': 81, 'name': 'advances in adaptive data analysis'}
+{'id': 82, 'name': 'advances in complex systems'}
+{'id': 83, 'name': 'advances in computers'}
+{'id': 84, 'name': 'advances in computing research'}
+{'id': 85, 'name': 'advances in engineering software'}
+{'id': 86, 'name': 'african j. of inf. & commun. technology'}
+{'id': 87, 'name': 'algorithmic finance'}
+{'id': 88, 'name': 'algorithmic operations research'}
+{'id': 89, 'name': 'algorithmica'}
+{'id': 90, 'name': 'algorithms'}
+{'id': 91, 'name': 'algorithms for molecular biology'}
+{'id': 92, 'name': 'american j. computational mathematics'}
+{'id': 93, 'name': 'american journal of computational linguistics'}
+{'id': 94, 'name': 'angewandte informatik'}
+{'id': 95, 'name': 'ann. math. artif. intell.'}
+{'id': 96, 'name': 'ann. math. logic'}
+{'id': 97, 'name': 'ann. pure appl. logic'}
+{'id': 98, 'name': 'ann. software eng.'}
+{'id': 99, 'name': 'annales umcs, informatica'}
+{'id': 100, 'name': 'annales des télécommunications'}
+{'id': 101, 'name': 'annals or'}
+{'id': 102, 'name': 'annals of gis'}
+{'id': 103, 'name': 'annual reviews in control'}
+{'id': 104, 'name': 'appl. algebra eng. commun. comput.'}
+{'id': 105, 'name': 'appl. comput. syst.'}
+{'id': 106, 'name': 'appl. intell.'}
+{'id': 107, 'name': 'appl. math. lett.'}
+{'id': 108, 'name': 'appl. soft comput.'}
+{'id': 109, 'name': 'applied artificial intelligence'}
+{'id': 110, 'name': 'applied categorical structures'}
+{'id': 111, 'name': 'applied comp. int. soft computing'}
+{'id': 112, 'name': 'applied mathematics and computation'}
+{'id': 113, 'name': 'applied mathematics and computer science'}
+{'id': 114, 'name': 'applied network science'}
+{'id': 115, 'name': 'applied ontology'}
+{'id': 116, 'name': 'arch. math. log.'}
+{'id': 117, 'name': 'archive of formal proofs'}
+{'id': 118, 'name': 'archives and museum informatics'}
+{'id': 119, 'name': 'argument & computation'}
+{'id': 120, 'name': 'ars comb.'}
+{'id': 121, 'name': 'ars math. contemp.'}
+{'id': 122, 'name': 'art discret. appl. math.'}
+{'id': 123, 'name': 'artif. intell.'}
+{'id': 124, 'name': 'artif. intell. law'}
+{'id': 125, 'name': 'artif. intell. research'}
+{'id': 126, 'name': 'artif. intell. rev.'}
+{'id': 127, 'name': 'artificial intelligence in medicine'}
+{'id': 128, 'name': 'artificial life'}
+{'id': 129, 'name': 'aslib j. inf. manag.'}
+{'id': 130, 'name': 'aslib proceedings'}
+{'id': 131, 'name': 'asymptotic analysis'}
+{'id': 132, 'name': 'austr. j. intelligent information processing systems'}
+{'id': 133, 'name': 'australasian j. combinatorics'}
+{'id': 134, 'name': 'australasian j. of inf. systems'}
+{'id': 135, 'name': 'australian computer journal'}
+{'id': 136, 'name': 'autom. softw. eng.'}
+{'id': 137, 'name': 'automatic control and computer sciences'}
+{'id': 138, 'name': 'automatica'}
+{'id': 139, 'name': 'automation and remote control'}
+{'id': 140, 'name': 'automatisierungstechnik'}
+{'id': 141, 'name': 'auton. robots'}
+{'id': 142, 'name': 'autonomous agents and multi-agent systems'}
+{'id': 143, 'name': 'axioms'}
+{'id': 144, 'name': 'biaa'}
+{'id': 145, 'name': 'bit'}
+{'id': 146, 'name': 'bjet'}
+{'id': 147, 'name': 'bmc bioinformatics'}
+{'id': 148, 'name': 'bmc genomics'}
+{'id': 149, 'name': 'bmc med. inf. & decision making'}
+{'id': 150, 'name': 'bmc medical imaging'}
+{'id': 151, 'name': 'bmc systems biology'}
+{'id': 152, 'name': 'behaviour & it'}
+{'id': 153, 'name': 'bell labs technical journal'}
+{'id': 154, 'name': 'big data'}
+{'id': 155, 'name': 'big data research'}
+{'id': 156, 'name': 'bio-algorithms and med-systems'}
+{'id': 157, 'name': 'biodata mining'}
+{'id': 158, 'name': 'bioinformatics'}
+{'id': 159, 'name': 'bioinformatics [ismb/eccb]'}
+{'id': 160, 'name': 'bioinformatics [ismb]'}
+{'id': 161, 'name': 'biological cybernetics'}
+{'id': 162, 'name': 'biomed. signal proc. and control'}
+{'id': 163, 'name': 'biosystems'}
+{'id': 164, 'name': 'brain connectivity'}
+{'id': 165, 'name': 'brain informatics'}
+{'id': 166, 'name': 'briefings in bioinformatics'}
+{'id': 167, 'name': 'bull. acad. polon. sci., sér. sci. math. astronom. phys.'}
+{'id': 168, 'name': 'bulletin of symbolic logic'}
+{'id': 169, 'name': 'bulletin of the eatcs'}
+{'id': 170, 'name': 'bulletin of the igpl'}
+{'id': 171, 'name': 'business & information systems engineering'}
+{'id': 172, 'name': 'business proc. manag. journal'}
+{'id': 173, 'name': 'c&rl'}
+{'id': 174, 'name': 'caai trans. intell. technol.'}
+{'id': 175, 'name': 'cais'}
+{'id': 176, 'name': 'casm'}
+{'id': 177, 'name': 'cejor'}
+{'id': 178, 'name': 'cit'}
+{'id': 179, 'name': 'clei electron. j.'}
+{'id': 180, 'name': 'cmbbe: imaging & visualization'}
+{'id': 181, 'name': 'cmg transactions'}
+{'id': 182, 'name': 'csimq'}
+{'id': 183, 'name': 'cssp'}
+{'id': 184, 'name': 'cvgip: graphical model and image processing'}
+{'id': 185, 'name': 'cvgip: image understanding'}
+{'id': 186, 'name': 'cartographica'}
+{'id': 187, 'name': 'central europ. j. computer science'}
+{'id': 188, 'name': 'chicago j. theor. comput. sci.'}
+{'id': 189, 'name': 'circuits and systems'}
+{'id': 190, 'name': 'cluster computing'}
+{'id': 191, 'name': 'corr'}
+{'id': 192, 'name': 'cognition, technology & work'}
+{'id': 193, 'name': 'cognitive computation'}
+{'id': 194, 'name': 'cognitive processing'}
+{'id': 195, 'name': 'cognitive science'}
+{'id': 196, 'name': 'cognitive systems research'}
+{'id': 197, 'name': 'combinatorica'}
+{'id': 198, 'name': 'combinatorics, probability & computing'}
+{'id': 199, 'name': 'commun. acm'}
+{'id': 200, 'name': 'communication research'}
+{'id': 201, 'name': 'communications and network'}
+{'id': 202, 'name': 'communications in statistics - simulation and computation'}
+{'id': 203, 'name': 'comp. applic. in engineering education'}
+{'id': 204, 'name': 'comp. int. and neurosc.'}
+{'id': 205, 'name': 'comp. math. methods in medicine'}
+{'id': 206, 'name': 'comp. med. imag. and graph.'}
+{'id': 207, 'name': 'comp. opt. and appl.'}
+{'id': 208, 'name': 'comp. and biomed. research'}
+{'id': 209, 'name': 'comp. in bio. and med.'}
+{'id': 210, 'name': 'comp.-aided civil and infrastruct. engineering'}
+{'id': 211, 'name': 'complex systems'}
+{'id': 212, 'name': 'complexity'}
+{'id': 213, 'name': 'compulog newsletter'}
+{'id': 214, 'name': 'comput. geom.'}
+{'id': 215, 'name': 'comput. graph. forum'}
+{'id': 216, 'name': 'comput. j.'}
+{'id': 217, 'name': 'comput. lang.'}
+{'id': 218, 'name': 'comput. manag. science'}
+{'id': 219, 'name': 'comput. meth. in appl. math.'}
+{'id': 220, 'name': 'comput. sci. inf. syst.'}
+{'id': 221, 'name': 'comput. syst. sci. eng.'}
+{'id': 222, 'name': 'computability'}
+{'id': 223, 'name': 'computación y sistemas'}
+{'id': 224, 'name': 'computat. and visualiz. in science'}
+{'id': 225, 'name': 'computation'}
+{'id': 226, 'name': 'computational & mathematical organization theory'}
+{'id': 227, 'name': 'computational biology and chemistry'}
+{'id': 228, 'name': 'computational complexity'}
+{'id': 229, 'name': 'computational intelligence'}
+{'id': 230, 'name': 'computational linguistics'}
+{'id': 231, 'name': 'computational statistics & data analysis'}
+{'id': 232, 'name': 'computational visual media'}
+{'id': 233, 'name': 'computer aided geometric design'}
+{'id': 234, 'name': 'computer applications in the biosciences'}
+{'id': 235, 'name': 'computer architecture letters'}
+{'id': 236, 'name': 'computer communication review'}
+{'id': 237, 'name': 'computer communications'}
+{'id': 238, 'name': 'computer graphics and image processing'}
+{'id': 239, 'name': 'computer languages, systems & structures'}
+{'id': 240, 'name': 'computer methods and programs in biomedicine'}
+{'id': 241, 'name': 'computer music journal'}
+{'id': 242, 'name': 'computer networks'}
+{'id': 243, 'name': 'computer networks and isbn systems'}
+{'id': 244, 'name': 'computer networks and isdn systems'}
+{'id': 245, 'name': 'computer physics communications'}
+{'id': 246, 'name': 'computer science (agh)'}
+{'id': 247, 'name': 'computer science - r&d'}
+{'id': 248, 'name': 'computer science education'}
+{'id': 249, 'name': 'computer science review'}
+{'id': 250, 'name': 'computer speech & language'}
+{'id': 251, 'name': 'computer standards & interfaces'}
+{'id': 252, 'name': 'computer supported cooperative work'}
+{'id': 253, 'name': 'computer vision and image understanding'}
+{'id': 254, 'name': 'computer vision, graphics, and image processing'}
+{'id': 255, 'name': 'computer and information science'}
+{'id': 256, 'name': 'computer und recht'}
+{'id': 257, 'name': 'computer-aided design'}
+{'id': 258, 'name': 'computers'}
+{'id': 259, 'name': 'computers & chemical engineering'}
+{'id': 260, 'name': 'computers & chemistry'}
+{'id': 261, 'name': 'computers & education'}
+{'id': 262, 'name': 'computers & electrical engineering'}
+{'id': 263, 'name': 'computers & geosciences'}
+{'id': 264, 'name': 'computers & graphics'}
+{'id': 265, 'name': 'computers & industrial engineering'}
+{'id': 266, 'name': 'computers & mathematics with applications'}
+{'id': 267, 'name': 'computers & or'}
+{'id': 268, 'name': 'computers & security'}
+{'id': 269, 'name': 'computers and artificial intelligence'}
+{'id': 270, 'name': 'computers and electronics in agriculture'}
+{'id': 271, 'name': 'computers and the humanities'}
+{'id': 272, 'name': 'computers in entertainment'}
+{'id': 273, 'name': 'computers in human behavior'}
+{'id': 274, 'name': 'computers in industry'}
+{'id': 275, 'name': 'computers, environment and urban systems'}
+{'id': 276, 'name': 'computerworld'}
+{'id': 277, 'name': 'computing'}
+{'id': 278, 'name': 'computing systems'}
+{'id': 279, 'name': 'computing and informatics'}
+{'id': 280, 'name': 'computing in science and engineering'}
+{'id': 281, 'name': 'concurrency - practice and experience'}
+{'id': 282, 'name': 'concurrency and computation: practice and experience'}
+{'id': 283, 'name': 'concurrent engineering: r&a'}
+{'id': 284, 'name': 'connect. sci.'}
+{'id': 285, 'name': 'constraints'}
+{'id': 286, 'name': 'contributions to discrete mathematics'}
+{'id': 287, 'name': 'control and cybernetics'}
+{'id': 288, 'name': 'control and intelligent systems'}
+{'id': 289, 'name': 'cryptography'}
+{'id': 290, 'name': 'cryptography and communications'}
+{'id': 291, 'name': 'cryptologia'}
+{'id': 292, 'name': 'cybernetics and human knowing'}
+{'id': 293, 'name': 'cybernetics and systems'}
+{'id': 294, 'name': 'cyberpsy., behavior, and soc. networking'}
+{'id': 295, 'name': 'cybersecurity'}
+{'id': 296, 'name': 'd&d'}
+{'id': 297, 'name': 'd-lib mag.'}
+{'id': 298, 'name': 'darts'}
+{'id': 299, 'name': 'data base'}
+{'id': 300, 'name': 'dsh'}
+{'id': 301, 'name': 'dagstuhl manifestos'}
+{'id': 302, 'name': 'dagstuhl reports'}
+{'id': 303, 'name': 'data'}
+{'id': 304, 'name': 'data knowl. eng.'}
+{'id': 305, 'name': 'data min. knowl. discov.'}
+{'id': 306, 'name': 'data quality journal'}
+{'id': 307, 'name': 'data sci.'}
+{'id': 308, 'name': 'data science journal'}
+{'id': 309, 'name': 'data science and engineering'}
+{'id': 310, 'name': 'data technol. appl.'}
+{'id': 311, 'name': 'database'}
+{'id': 312, 'name': 'datenbank rundbrief'}
+{'id': 313, 'name': 'datenbank-spektrum'}
+{'id': 314, 'name': 'datenschutz und datensicherheit'}
+{'id': 315, 'name': 'decision analysis'}
+{'id': 316, 'name': 'decision analytics'}
+{'id': 317, 'name': 'decision sciences'}
+{'id': 318, 'name': 'decision support systems'}
+{'id': 319, 'name': 'des. codes cryptogr.'}
+{'id': 320, 'name': 'design autom. for emb. sys.'}
+{'id': 321, 'name': 'digital creativity'}
+{'id': 322, 'name': 'digital humanities quarterly'}
+{'id': 323, 'name': 'digital investigation'}
+{'id': 324, 'name': 'digital library perspectives'}
+{'id': 325, 'name': 'digital signal processing'}
+{'id': 326, 'name': 'digital system research center report'}
+{'id': 327, 'name': 'digital technical journal'}
+{'id': 328, 'name': 'discrete & computational geometry'}
+{'id': 329, 'name': 'discrete applied mathematics'}
+{'id': 330, 'name': 'discrete event dynamic systems'}
+{'id': 331, 'name': 'discrete math., alg. and appl.'}
+{'id': 332, 'name': 'discrete mathematics'}
+{'id': 333, 'name': 'discrete mathematics & theoretical computer science'}
+{'id': 334, 'name': 'discrete optimization'}
+{'id': 335, 'name': 'discussiones mathematicae graph theory'}
+{'id': 336, 'name': 'displays'}
+{'id': 337, 'name': 'distributed computing'}
+{'id': 338, 'name': 'distributed systems engineering'}
+{'id': 339, 'name': 'distributed and parallel databases'}
+{'id': 340, 'name': 'document numérique'}
+{'id': 341, 'name': 'dynamic games and applications'}
+{'id': 342, 'name': 'eai endorsed trans. ambient systems'}
+{'id': 343, 'name': 'eai endorsed trans. cloud systems'}
+{'id': 344, 'name': 'eai endorsed trans. cognitive communications'}
+{'id': 345, 'name': 'eai endorsed trans. collaborative computing'}
+{'id': 346, 'name': 'eai endorsed trans. complex systems'}
+{'id': 347, 'name': 'eai endorsed trans. context-aware syst. & appl.'}
+{'id': 348, 'name': 'eai endorsed trans. creative technologies'}
+{'id': 349, 'name': 'eai endorsed trans. energy web'}
+{'id': 350, 'name': 'eai endorsed trans. future intellig. educat. env.'}
+{'id': 351, 'name': 'eai endorsed trans. indust. netw. & intellig. syst.'}
+{'id': 352, 'name': 'eai endorsed trans. mobile communications applications'}
+{'id': 353, 'name': 'eai endorsed trans. pervasive health technol.'}
+{'id': 354, 'name': 'eai endorsed trans. scalable information systems'}
+{'id': 355, 'name': 'eai endorsed trans. security safety'}
+{'id': 356, 'name': 'eai endorsed trans. self-adaptive systems'}
+{'id': 357, 'name': 'eai endorsed trans. serious games'}
+{'id': 358, 'name': 'eai endorsed trans. ubiquitous environments'}
+{'id': 359, 'name': 'eai endorsed trans. wireless spectrum'}
+{'id': 360, 'name': 'eai endorsed trans. e-business'}
+{'id': 361, 'name': 'eai endorsed trans. e-learning'}
+{'id': 362, 'name': 'eait'}
+{'id': 363, 'name': 'eceasst'}
+{'id': 364, 'name': 'eg'}
+{'id': 365, 'name': 'ejgta'}
+{'id': 366, 'name': 'ejis'}
+{'id': 367, 'name': 'emisa forum'}
+{'id': 368, 'name': 'epj data sci.'}
+{'id': 369, 'name': 'ercim news'}
+{'id': 370, 'name': 'eurasip j. adv. sig. proc.'}
+{'id': 371, 'name': 'eurasip j. audio, speech and music processing'}
+{'id': 372, 'name': 'eurasip j. bioinformatics and systems biology'}
+{'id': 373, 'name': 'eurasip j. emb. sys.'}
+{'id': 374, 'name': 'eurasip j. image and video processing'}
+{'id': 375, 'name': 'eurasip j. information security'}
+{'id': 376, 'name': 'eurasip j. wireless comm. and networking'}
+{'id': 377, 'name': 'euro j. computational optimization'}
+{'id': 378, 'name': 'euro j. transportation and logistics'}
+{'id': 379, 'name': 'earth science informatics'}
+{'id': 380, 'name': 'ecological informatics'}
+{'id': 381, 'name': 'education for information'}
+{'id': 382, 'name': 'educational technology & society'}
+{'id': 383, 'name': 'egyptian computer science journal'}
+{'id': 384, 'name': 'electr. j. comb.'}
+{'id': 385, 'name': 'electr. notes theor. comput. sci.'}
+{'id': 386, 'name': 'electron. trans. artif. intell.'}
+{'id': 387, 'name': 'electronic colloquium on computational complexity (eccc)'}
+{'id': 388, 'name': 'electronic commerce research'}
+{'id': 389, 'name': 'electronic commerce research and applications'}
+{'id': 390, 'name': 'electronic markets'}
+{'id': 391, 'name': 'electronic networking: research, applications and policy'}
+{'id': 392, 'name': 'electronic notes in discrete mathematics'}
+{'id': 393, 'name': 'electronic publishing'}
+{'id': 394, 'name': 'elektronische informationsverarbeitung und kybernetik'}
+{'id': 395, 'name': 'elektronische rechenanlagen'}
+{'id': 396, 'name': 'elektrotechnik und informationstechnik'}
+{'id': 397, 'name': 'embedded systems letters'}
+{'id': 398, 'name': 'empirical software engineering'}
+{'id': 399, 'name': 'eng. appl. of ai'}
+{'id': 400, 'name': 'eng. comput. (lond.)'}
+{'id': 401, 'name': 'engineering letters'}
+{'id': 402, 'name': 'enterprise is'}
+{'id': 403, 'name': 'enterprise modelling and information systems architectures'}
+{'id': 404, 'name': 'entertainment computing'}
+{'id': 405, 'name': 'entropy'}
+{'id': 406, 'name': 'environmental modelling and software'}
+{'id': 407, 'name': 'ethics inf. technol.'}
+{'id': 408, 'name': 'eur. j. comb.'}
+{'id': 409, 'name': 'eur. j. control'}
+{'id': 410, 'name': 'european journal of law and technology'}
+{'id': 411, 'name': 'european journal of operational research'}
+{'id': 412, 'name': 'european transactions on telecommunications'}
+{'id': 413, 'name': 'evolutionary computation'}
+{'id': 414, 'name': 'evolutionary intelligence'}
+{'id': 415, 'name': 'evolving systems'}
+{'id': 416, 'name': 'experimental mathematics'}
+{'id': 417, 'name': 'expert syst. appl.'}
+{'id': 418, 'name': 'expert systems'}
+{'id': 419, 'name': 'fdt - bulletin of acm sigfidet'}
+{'id': 420, 'name': 'fdt - bulletin of acm sigmod'}
+{'id': 421, 'name': 'flap'}
+{'id': 422, 'name': 'fo & dm'}
+{'id': 423, 'name': 'finance and stochastics'}
+{'id': 424, 'name': 'finite fields and their applications'}
+{'id': 425, 'name': 'first monday'}
+{'id': 426, 'name': 'formal asp. comput.'}
+{'id': 427, 'name': 'formal methods in system design'}
+{'id': 428, 'name': 'formalized mathematics'}
+{'id': 429, 'name': 'foundations and trends in communications and information theory'}
+{'id': 430, 'name': 'foundations and trends in computer graphics and vision'}
+{'id': 431, 'name': 'foundations and trends in databases'}
+{'id': 432, 'name': 'foundations and trends in electronic design automation'}
+{'id': 433, 'name': 'foundations and trends in human-computer interaction'}
+{'id': 434, 'name': 'foundations and trends in information retrieval'}
+{'id': 435, 'name': 'foundations and trends in information systems'}
+{'id': 436, 'name': 'foundations and trends in machine learning'}
+{'id': 437, 'name': 'foundations and trends in microeconomics'}
+{'id': 438, 'name': 'foundations and trends in networking'}
+{'id': 439, 'name': 'foundations and trends in optimization'}
+{'id': 440, 'name': 'foundations and trends in privacy and security'}
+{'id': 441, 'name': 'foundations and trends in programming languages'}
+{'id': 442, 'name': 'foundations and trends in robotics'}
+{'id': 443, 'name': 'foundations and trends in signal processing'}
+{'id': 444, 'name': 'foundations and trends in stochastic systems'}
+{'id': 445, 'name': 'foundations and trends in systems and control'}
+{'id': 446, 'name': 'foundations and trends in technology, information and operations management'}
+{'id': 447, 'name': 'foundations and trends in theoretical computer science'}
+{'id': 448, 'name': 'foundations and trends in web science'}
+{'id': 449, 'name': 'foundations of computational mathematics'}
+{'id': 450, 'name': 'front. comput. neurosci.'}
+{'id': 451, 'name': 'front. digital humanities'}
+{'id': 452, 'name': 'front. ict'}
+{'id': 453, 'name': 'front. neuroinform.'}
+{'id': 454, 'name': 'front. neurorobot.'}
+{'id': 455, 'name': 'front. robotics and ai'}
+{'id': 456, 'name': 'frontiers comput. sci.'}
+{'id': 457, 'name': 'frontiers comput. sci. china'}
+{'id': 458, 'name': 'frontiers of it & ee'}
+{'id': 459, 'name': 'fundam. inform.'}
+{'id': 460, 'name': 'future generation comp. syst.'}
+{'id': 461, 'name': 'future internet'}
+{'id': 462, 'name': 'fuzzy sets and systems'}
+{'id': 463, 'name': 'gi datenbank rundbrief'}
+{'id': 464, 'name': 'gte laboratories incorporated'}
+{'id': 465, 'name': 'game studies'}
+{'id': 466, 'name': 'games'}
+{'id': 467, 'name': 'games and economic behavior'}
+{'id': 468, 'name': 'genetic programming and evolvable machines'}
+{'id': 469, 'name': 'genomics, proteomics & bioinformatics'}
+{'id': 470, 'name': 'geo-spatial information science'}
+{'id': 471, 'name': 'geoinformatica'}
+{'id': 472, 'name': 'getmobile'}
+{'id': 473, 'name': 'glottometrics'}
+{'id': 474, 'name': 'government information quarterly'}
+{'id': 475, 'name': 'grammars'}
+{'id': 476, 'name': 'graphical models'}
+{'id': 477, 'name': 'graphical models and image processing'}
+{'id': 478, 'name': 'graphs and combinatorics'}
+{'id': 479, 'name': 'grey systems: t&a'}
+{'id': 480, 'name': 'groups complexity cryptology'}
+{'id': 481, 'name': 'hcis'}
+{'id': 482, 'name': 'hmd - praxis wirtschaftsinform.'}
+{'id': 483, 'name': 'health inf. sci. syst.'}
+{'id': 484, 'name': 'health informatics journal'}
+{'id': 485, 'name': 'higher-order and symbolic computation'}
+{'id': 486, 'name': 'history and computing'}
+{'id': 487, 'name': 'human factors'}
+{'id': 488, 'name': 'human-computer interaction'}
+{'id': 489, 'name': 'hydrology and earth system sciences'}
+{'id': 490, 'name': 'hypermedia'}
+{'id': 491, 'name': 'i. j.  computational biology and drug design'}
+{'id': 492, 'name': 'i. j. artificial intelligence in education'}
+{'id': 493, 'name': 'i. j. bifurcation and chaos'}
+{'id': 494, 'name': 'i. j. circuit theory and applications'}
+{'id': 495, 'name': 'i. j. comput. appl.'}
+{'id': 496, 'name': 'i. j. computational biology and drug design'}
+{'id': 497, 'name': 'i. j. computer-supported collaborative learning'}
+{'id': 498, 'name': 'i. j. computers for math. learning'}
+{'id': 499, 'name': 'i. j. functional informatics and personalised medicine'}
+{'id': 500, 'name': 'i. j. humanoid robotics'}
+{'id': 501, 'name': 'i. j. information acquisition'}
+{'id': 502, 'name': 'i. j. knowledge and web intelligence'}
+{'id': 503, 'name': 'i. j. law and information technology'}
+{'id': 504, 'name': 'i. j. medical informatics'}
+{'id': 505, 'name': 'i. j. network security'}
+{'id': 506, 'name': 'i. j. rf technol.: res. and appl.'}
+{'id': 507, 'name': 'i. j. robotics res.'}
+{'id': 508, 'name': 'i. j. robotics and automation'}
+{'id': 509, 'name': 'i. j. social robotics'}
+{'id': 510, 'name': 'i. j. speech technology'}
+{'id': 511, 'name': 'i. j. wireless & optical communications'}
+{'id': 512, 'name': 'iacr cryptology eprint archive'}
+{'id': 513, 'name': 'iacr trans. cryptogr. hardw. embed. syst.'}
+{'id': 514, 'name': 'iacr trans. symmetric cryptol.'}
+{'id': 515, 'name': 'ibis'}
+{'id': 516, 'name': 'ibm journal of research and development'}
+{'id': 517, 'name': 'ibm publication'}
+{'id': 518, 'name': 'ibm research report'}
+{'id': 519, 'name': 'ibm research report, san jose, california'}
+{'id': 520, 'name': 'ibm systems journal'}
+{'id': 521, 'name': 'icga journal'}
+{'id': 522, 'name': 'icst trans. ambient systems'}
+{'id': 523, 'name': 'icst trans. mobile communications applications'}
+{'id': 524, 'name': 'icst trans. security safety'}
+{'id': 525, 'name': 'icst trans. e-education e-learning'}
+{'id': 526, 'name': 'iee proceedings - software'}
+{'id': 527, 'name': 'ieee access'}
+{'id': 528, 'name': 'ieee annals of the history of computing'}
+{'id': 529, 'name': 'ieee caa j. autom. sinica'}
+{'id': 530, 'name': 'ieee cloud computing'}
+{'id': 531, 'name': 'ieee communications letters'}
+{'id': 532, 'name': 'ieee communications magazine'}
+{'id': 533, 'name': 'ieee communications standards magazine'}
+{'id': 534, 'name': 'ieee communications surveys and tutorials'}
+{'id': 535, 'name': 'ieee comp. int. mag.'}
+{'id': 536, 'name': 'ieee computational intelligence bulletin'}
+{'id': 537, 'name': 'ieee computer'}
+{'id': 538, 'name': 'ieee computer graphics and applications'}
+{'id': 539, 'name': 'ieee concurrency'}
+{'id': 540, 'name': 'ieee consumer electronics magazine'}
+{'id': 541, 'name': 'ieee control systems letters'}
+{'id': 542, 'name': 'ieee data eng. bull.'}
+{'id': 543, 'name': 'ieee database eng. bull.'}
+{'id': 544, 'name': 'ieee design & test'}
+{'id': 545, 'name': 'ieee design & test of computers'}
+{'id': 546, 'name': 'ieee distributed systems online'}
+{'id': 547, 'name': 'ieee expert'}
+{'id': 548, 'name': 'ieee geosci. remote sensing lett.'}
+{'id': 549, 'name': 'ieee instrum. meas. mag.'}
+{'id': 550, 'name': 'ieee intell. transport. syst. mag.'}
+{'id': 551, 'name': 'ieee intelligent informatics bulletin'}
+{'id': 552, 'name': 'ieee intelligent systems'}
+{'id': 553, 'name': 'ieee internet computing'}
+{'id': 554, 'name': 'ieee internet of things journal'}
+{'id': 555, 'name': 'ieee j sel. topics in appl. earth observ. and remote sensing'}
+{'id': 556, 'name': 'ieee j. biomedical and health informatics'}
+{'id': 557, 'name': 'ieee j. emerg. sel. topics circuits syst.'}
+{'id': 558, 'name': 'ieee j. robotics and automation'}
+{'id': 559, 'name': 'ieee journal on selected areas in communications'}
+{'id': 560, 'name': 'ieee micro'}
+{'id': 561, 'name': 'ieee multimedia'}
+{'id': 562, 'name': 'ieee network'}
+{'id': 563, 'name': 'ieee p&dt'}
+{'id': 564, 'name': 'ieee personal commun.'}
+{'id': 565, 'name': 'ieee pervasive computing'}
+{'id': 566, 'name': 'ieee robot. automat. mag.'}
+{'id': 567, 'name': 'ieee robotics and automation letters'}
+{'id': 568, 'name': 'ieee security & privacy'}
+{'id': 569, 'name': 'ieee signal process. lett.'}
+{'id': 570, 'name': 'ieee signal process. mag.'}
+{'id': 571, 'name': 'ieee software'}
+{'id': 572, 'name': 'ieee systems journal'}
+{'id': 573, 'name': 'ieee technol. soc. mag.'}
+{'id': 574, 'name': 'ieee trans. acoustics, speech, and signal processing'}
+{'id': 575, 'name': 'ieee trans. aerospace and electronic systems'}
+{'id': 576, 'name': 'ieee trans. affective computing'}
+{'id': 577, 'name': 'ieee trans. audio, speech & language processing'}
+{'id': 578, 'name': 'ieee trans. automat. contr.'}
+{'id': 579, 'name': 'ieee trans. automation science and engineering'}
+{'id': 580, 'name': 'ieee trans. autonomous mental development'}
+{'id': 581, 'name': 'ieee trans. big data'}
+{'id': 582, 'name': 'ieee trans. biomed. circuits and systems'}
+{'id': 583, 'name': 'ieee trans. biomed. engineering'}
+{'id': 584, 'name': 'ieee trans. circuits syst. video techn.'}
+{'id': 585, 'name': 'ieee trans. cloud computing'}
+{'id': 586, 'name': 'ieee trans. cogn. comm. & networking'}
+{'id': 587, 'name': 'ieee trans. cognitive and developmental systems'}
+{'id': 588, 'name': 'ieee trans. communications'}
+{'id': 589, 'name': 'ieee trans. comput. intellig. and ai in games'}
+{'id': 590, 'name': 'ieee trans. comput. social systems'}
+{'id': 591, 'name': 'ieee trans. computational imaging'}
+{'id': 592, 'name': 'ieee trans. computers'}
+{'id': 593, 'name': 'ieee trans. consumer electronics'}
+{'id': 594, 'name': 'ieee trans. contr. sys. techn.'}
+{'id': 595, 'name': 'ieee trans. control of network systems'}
+{'id': 596, 'name': 'ieee trans. cybernetics'}
+{'id': 597, 'name': 'ieee trans. dependable sec. comput.'}
+{'id': 598, 'name': 'ieee trans. education'}
+{'id': 599, 'name': 'ieee trans. electronic computers'}
+{'id': 600, 'name': 'ieee trans. emerging topics comput.'}
+{'id': 601, 'name': 'ieee trans. emerging topics in comput. intellig.'}
+{'id': 602, 'name': 'ieee trans. engineering management'}
+{'id': 603, 'name': 'ieee trans. evolutionary computation'}
+{'id': 604, 'name': 'ieee trans. fuzzy systems'}
+{'id': 605, 'name': 'ieee trans. games'}
+{'id': 606, 'name': 'ieee trans. geoscience and remote sensing'}
+{'id': 607, 'name': 'ieee trans. haptics'}
+{'id': 608, 'name': 'ieee trans. human-machine systems'}
+{'id': 609, 'name': 'ieee trans. image processing'}
+{'id': 610, 'name': 'ieee trans. industrial electronics'}
+{'id': 611, 'name': 'ieee trans. industrial informatics'}
+{'id': 612, 'name': 'ieee trans. information forensics and security'}
+{'id': 613, 'name': 'ieee trans. information technology in biomedicine'}
+{'id': 614, 'name': 'ieee trans. information theory'}
+{'id': 615, 'name': 'ieee trans. instrumentation and measurement'}
+{'id': 616, 'name': 'ieee trans. intelligent transportation systems'}
+{'id': 617, 'name': 'ieee trans. intelligent vehicles'}
+{'id': 618, 'name': 'ieee trans. knowl. data eng.'}
+{'id': 619, 'name': 'ieee trans. med. imaging'}
+{'id': 620, 'name': 'ieee trans. mob. comput.'}
+{'id': 621, 'name': 'ieee trans. multi-scale computing systems'}
+{'id': 622, 'name': 'ieee trans. multimedia'}
+{'id': 623, 'name': 'ieee trans. network science and engineering'}
+{'id': 624, 'name': 'ieee trans. network and service management'}
+{'id': 625, 'name': 'ieee trans. neural netw. learning syst.'}
+{'id': 626, 'name': 'ieee trans. neural networks'}
+{'id': 627, 'name': 'ieee trans. parallel distrib. syst.'}
+{'id': 628, 'name': 'ieee trans. pattern anal. mach. intell.'}
+{'id': 629, 'name': 'ieee trans. prof. communication'}
+{'id': 630, 'name': 'ieee trans. reliability'}
+{'id': 631, 'name': 'ieee trans. robotics'}
+{'id': 632, 'name': 'ieee trans. robotics and automation'}
+{'id': 633, 'name': 'ieee trans. services computing'}
+{'id': 634, 'name': 'ieee trans. signal processing'}
+{'id': 635, 'name': 'ieee trans. signal and information processing over networks'}
+{'id': 636, 'name': 'ieee trans. smart grid'}
+{'id': 637, 'name': 'ieee trans. software eng.'}
+{'id': 638, 'name': 'ieee trans. speech and audio processing'}
+{'id': 639, 'name': 'ieee trans. systems science and cybernetics'}
+{'id': 640, 'name': 'ieee trans. systems, man, and cybernetics'}
+{'id': 641, 'name': 'ieee trans. systems, man, and cybernetics, part a'}
+{'id': 642, 'name': 'ieee trans. systems, man, and cybernetics, part b'}
+{'id': 643, 'name': 'ieee trans. systems, man, and cybernetics, part c'}
+{'id': 644, 'name': 'ieee trans. systems, man, and cybernetics: systems'}
+{'id': 645, 'name': 'ieee trans. vlsi syst.'}
+{'id': 646, 'name': 'ieee trans. vehicular technology'}
+{'id': 647, 'name': 'ieee trans. vis. comput. graph.'}
+{'id': 648, 'name': 'ieee trans. wireless communications'}
+{'id': 649, 'name': 'ieee trans. on cad of integrated circuits and systems'}
+{'id': 650, 'name': 'ieee trans. on circuits and systems'}
+{'id': 651, 'name': 'ieee wireless commun.'}
+{'id': 652, 'name': 'ieee wireless commun. letters'}
+{'id': 653, 'name': 'ieee-rita'}
+{'id': 654, 'name': 'ieee/acm trans. audio, speech & language processing'}
+{'id': 655, 'name': 'ieee/acm trans. comput. biology bioinform.'}
+{'id': 656, 'name': 'ieee/acm trans. netw.'}
+{'id': 657, 'name': 'ieice electronic express'}
+{'id': 658, 'name': 'ieice transactions'}
+{'id': 659, 'name': 'iet biometrics'}
+{'id': 660, 'name': 'iet circuits, devices & systems'}
+{'id': 661, 'name': 'iet communications'}
+{'id': 662, 'name': 'iet computer vision'}
+{'id': 663, 'name': 'iet computers & digital techniques'}
+{'id': 664, 'name': 'iet cyper-phys. syst.: theory & appl.'}
+{'id': 665, 'name': 'iet image processing'}
+{'id': 666, 'name': 'iet information security'}
+{'id': 667, 'name': 'iet networks'}
+{'id': 668, 'name': 'iet signal processing'}
+{'id': 669, 'name': 'iet software'}
+{'id': 670, 'name': 'iet wireless sensor systems'}
+{'id': 671, 'name': 'igtr'}
+{'id': 672, 'name': 'ij3dim'}
+{'id': 673, 'name': 'ijaac'}
+{'id': 674, 'name': 'ijaacs'}
+{'id': 675, 'name': 'ijabim'}
+{'id': 676, 'name': 'ijac'}
+{'id': 677, 'name': 'ijacdt'}
+{'id': 678, 'name': 'ijaci'}
+{'id': 679, 'name': 'ijact'}
+{'id': 680, 'name': 'ijads'}
+{'id': 681, 'name': 'ijaec'}
+{'id': 682, 'name': 'ijaeis'}
+{'id': 683, 'name': 'ijagr'}
+{'id': 684, 'name': 'ijahuc'}
+{'id': 685, 'name': 'ijaip'}
+{'id': 686, 'name': 'ijaisc'}
+{'id': 687, 'name': 'ijal'}
+{'id': 688, 'name': 'ijalr'}
+{'id': 689, 'name': 'ijamc'}
+{'id': 690, 'name': 'ijantti'}
+{'id': 691, 'name': 'ijaom'}
+{'id': 692, 'name': 'ijaose'}
+{'id': 693, 'name': 'ijapr'}
+{'id': 694, 'name': 'ijapuc'}
+{'id': 695, 'name': 'ijaras'}
+{'id': 696, 'name': 'ijart'}
+{'id': 697, 'name': 'ijat'}
+{'id': 698, 'name': 'ijatem'}
+{'id': 699, 'name': 'ijats'}
+{'id': 700, 'name': 'ijavet'}
+{'id': 701, 'name': 'ijbdcn'}
+{'id': 702, 'name': 'ijbdi'}
+{'id': 703, 'name': 'ijbic'}
+{'id': 704, 'name': 'ijbidm'}
+{'id': 705, 'name': 'ijbir'}
+{'id': 706, 'name': 'ijbis'}
+{'id': 707, 'name': 'ijbm'}
+{'id': 708, 'name': 'ijbpim'}
+{'id': 709, 'name': 'ijbpscm'}
+{'id': 710, 'name': 'ijbra'}
+{'id': 711, 'name': 'ijcac'}
+{'id': 712, 'name': 'ijcaet'}
+{'id': 713, 'name': 'ijcallt'}
+{'id': 714, 'name': 'ijcat'}
+{'id': 715, 'name': 'ijcbpl'}
+{'id': 716, 'name': 'ijcc'}
+{'id': 717, 'name': 'ijccbs'}
+{'id': 718, 'name': 'ijcce'}
+{'id': 719, 'name': 'ijcee'}
+{'id': 720, 'name': 'ijcicg'}
+{'id': 721, 'name': 'ijcih'}
+{'id': 722, 'name': 'ijcini'}
+{'id': 723, 'name': 'ijcip'}
+{'id': 724, 'name': 'ijcis'}
+{'id': 725, 'name': 'ijcistudies'}
+{'id': 726, 'name': 'ijclclp'}
+{'id': 727, 'name': 'ijcmam'}
+{'id': 728, 'name': 'ijcnds'}
+{'id': 729, 'name': 'ijcnis'}
+{'id': 730, 'name': 'ijcns'}
+{'id': 731, 'name': 'ijcopi'}
+{'id': 732, 'name': 'ijcsa'}
+{'id': 733, 'name': 'ijcse'}
+{'id': 734, 'name': 'ijcsm'}
+{'id': 735, 'name': 'ijcssa'}
+{'id': 736, 'name': 'ijcvip'}
+{'id': 737, 'name': 'ijcvr'}
+{'id': 738, 'name': 'ijcwt'}
+{'id': 739, 'name': 'ijcrc'}
+{'id': 740, 'name': 'ijdar'}
+{'id': 741, 'name': 'ijdats'}
+{'id': 742, 'name': 'ijdc'}
+{'id': 743, 'name': 'ijdcf'}
+{'id': 744, 'name': 'ijde'}
+{'id': 745, 'name': 'ijdet'}
+{'id': 746, 'name': 'ijdldc'}
+{'id': 747, 'name': 'ijdls'}
+{'id': 748, 'name': 'ijdmb'}
+{'id': 749, 'name': 'ijdmmm'}
+{'id': 750, 'name': 'ijdsn'}
+{'id': 751, 'name': 'ijdsst'}
+{'id': 752, 'name': 'ijdst'}
+{'id': 753, 'name': 'ijdtis'}
+{'id': 754, 'name': 'ijdwm'}
+{'id': 755, 'name': 'ijea'}
+{'id': 756, 'name': 'ijeb'}
+{'id': 757, 'name': 'ijebm'}
+{'id': 758, 'name': 'ijebr'}
+{'id': 759, 'name': 'ijeei'}
+{'id': 760, 'name': 'ijegr'}
+{'id': 761, 'name': 'ijeh'}
+{'id': 762, 'name': 'ijehmc'}
+{'id': 763, 'name': 'ijeis'}
+{'id': 764, 'name': 'ijeoe'}
+{'id': 765, 'name': 'ijep'}
+{'id': 766, 'name': 'ijertcs'}
+{'id': 767, 'name': 'ijes'}
+{'id': 768, 'name': 'ijesdf'}
+{'id': 769, 'name': 'ijesjp'}
+{'id': 770, 'name': 'ijesma'}
+{'id': 771, 'name': 'ijfsa'}
+{'id': 772, 'name': 'ijgbl'}
+{'id': 773, 'name': 'ijgc'}
+{'id': 774, 'name': 'ijgcms'}
+{'id': 775, 'name': 'ijgcrsis'}
+{'id': 776, 'name': 'ijghpc'}
+{'id': 777, 'name': 'ijguc'}
+{'id': 778, 'name': 'ijhac'}
+{'id': 779, 'name': 'ijhcitp'}
+{'id': 780, 'name': 'ijhcr'}
+{'id': 781, 'name': 'ijhisi'}
+{'id': 782, 'name': 'ijhpca'}
+{'id': 783, 'name': 'ijhpcn'}
+{'id': 784, 'name': 'ijhpsa'}
+{'id': 785, 'name': 'ijics'}
+{'id': 786, 'name': 'ijicst'}
+{'id': 787, 'name': 'ijict'}
+{'id': 788, 'name': 'ijicte'}
+{'id': 789, 'name': 'ijicthd'}
+{'id': 790, 'name': 'ijictrda'}
+{'id': 791, 'name': 'ijicot'}
+{'id': 792, 'name': 'ijide'}
+{'id': 793, 'name': 'ijids'}
+{'id': 794, 'name': 'ijidss'}
+{'id': 795, 'name': 'ijiei'}
+{'id': 796, 'name': 'ijiids'}
+{'id': 797, 'name': 'ijiip'}
+{'id': 798, 'name': 'ijiit'}
+{'id': 799, 'name': 'ijimai'}
+{'id': 800, 'name': 'ijimr'}
+{'id': 801, 'name': 'ijipm'}
+{'id': 802, 'name': 'ijipsi'}
+{'id': 803, 'name': 'ijipt'}
+{'id': 804, 'name': 'ijiq'}
+{'id': 805, 'name': 'ijira'}
+{'id': 806, 'name': 'ijirr'}
+{'id': 807, 'name': 'ijiscm'}
+{'id': 808, 'name': 'ijiscram'}
+{'id': 809, 'name': 'ijismd'}
+{'id': 810, 'name': 'ijisp'}
+{'id': 811, 'name': 'ijissc'}
+{'id': 812, 'name': 'ijisscm'}
+{'id': 813, 'name': 'ijisss'}
+{'id': 814, 'name': 'ijista'}
+{'id': 815, 'name': 'ijitbag'}
+{'id': 816, 'name': 'ijitcc'}
+{'id': 817, 'name': 'ijitm'}
+{'id': 818, 'name': 'ijitn'}
+{'id': 819, 'name': 'ijitpm'}
+{'id': 820, 'name': 'ijitsa'}
+{'id': 821, 'name': 'ijitwe'}
+{'id': 822, 'name': 'ijkbo'}
+{'id': 823, 'name': 'ijkdb'}
+{'id': 824, 'name': 'ijkedm'}
+{'id': 825, 'name': 'ijkesdp'}
+{'id': 826, 'name': 'ijkl'}
+{'id': 827, 'name': 'ijkm'}
+{'id': 828, 'name': 'ijksr'}
+{'id': 829, 'name': 'ijkss'}
+{'id': 830, 'name': 'ijlt'}
+{'id': 831, 'name': 'ijma'}
+{'id': 832, 'name': 'ijmbl'}
+{'id': 833, 'name': 'ijmc'}
+{'id': 834, 'name': 'ijmcmc'}
+{'id': 835, 'name': 'ijmdem'}
+{'id': 836, 'name': 'ijmei'}
+{'id': 837, 'name': 'ijmhci'}
+{'id': 838, 'name': 'ijmheur'}
+{'id': 839, 'name': 'ijmic'}
+{'id': 840, 'name': 'ijmir'}
+{'id': 841, 'name': 'ijmis'}
+{'id': 842, 'name': 'ijmlo'}
+{'id': 843, 'name': 'ijmmme'}
+{'id': 844, 'name': 'ijmno'}
+{'id': 845, 'name': 'ijmor'}
+{'id': 846, 'name': 'ijmr'}
+{'id': 847, 'name': 'ijmso'}
+{'id': 848, 'name': 'ijmssc'}
+{'id': 849, 'name': 'ijmstr'}
+{'id': 850, 'name': 'ijmtie'}
+{'id': 851, 'name': 'ijmtm'}
+{'id': 852, 'name': 'ijnc'}
+{'id': 853, 'name': 'ijncr'}
+{'id': 854, 'name': 'ijndc'}
+{'id': 855, 'name': 'ijngc'}
+{'id': 856, 'name': 'ijnmc'}
+{'id': 857, 'name': 'ijnvo'}
+{'id': 858, 'name': 'ijoci'}
+{'id': 859, 'name': 'ijom'}
+{'id': 860, 'name': 'ijopcd'}
+{'id': 861, 'name': 'ijoris'}
+{'id': 862, 'name': 'ijossp'}
+{'id': 863, 'name': 'ijpeds'}
+{'id': 864, 'name': 'ijpop'}
+{'id': 865, 'name': 'ijprai'}
+{'id': 866, 'name': 'ijqaete'}
+{'id': 867, 'name': 'ijrat'}
+{'id': 868, 'name': 'ijrfita'}
+{'id': 869, 'name': 'ijris'}
+{'id': 870, 'name': 'ijrsda'}
+{'id': 871, 'name': 'ijsccps'}
+{'id': 872, 'name': 'ijsda'}
+{'id': 873, 'name': 'ijsdir'}
+{'id': 874, 'name': 'ijsds'}
+{'id': 875, 'name': 'ijse'}
+{'id': 876, 'name': 'ijseus'}
+{'id': 877, 'name': 'ijshc'}
+{'id': 878, 'name': 'ijsi'}
+{'id': 879, 'name': 'ijsir'}
+{'id': 880, 'name': 'ijsita'}
+{'id': 881, 'name': 'ijskd'}
+{'id': 882, 'name': 'ijsmile'}
+{'id': 883, 'name': 'ijsn'}
+{'id': 884, 'name': 'ijsnet'}
+{'id': 885, 'name': 'ijsnm'}
+{'id': 886, 'name': 'ijsnet'}
+{'id': 887, 'name': 'ijsodit'}
+{'id': 888, 'name': 'ijspm'}
+{'id': 889, 'name': 'ijss'}
+{'id': 890, 'name': 'ijssc'}
+{'id': 891, 'name': 'ijssci'}
+{'id': 892, 'name': 'ijsse'}
+{'id': 893, 'name': 'ijssmet'}
+{'id': 894, 'name': 'ijssoe'}
+{'id': 895, 'name': 'ijsss'}
+{'id': 896, 'name': 'ijstm'}
+{'id': 897, 'name': 'ijt'}
+{'id': 898, 'name': 'ijtd'}
+{'id': 899, 'name': 'ijtem'}
+{'id': 900, 'name': 'ijthi'}
+{'id': 901, 'name': 'ijtm'}
+{'id': 902, 'name': 'ijtmcc'}
+{'id': 903, 'name': 'ijuc'}
+{'id': 904, 'name': 'ijuwbcs'}
+{'id': 905, 'name': 'ijvcsn'}
+{'id': 906, 'name': 'ijvple'}
+{'id': 907, 'name': 'ijvr'}
+{'id': 908, 'name': 'ijwa'}
+{'id': 909, 'name': 'ijwbc'}
+{'id': 910, 'name': 'ijwgs'}
+{'id': 911, 'name': 'ijwin'}
+{'id': 912, 'name': 'ijwis'}
+{'id': 913, 'name': 'ijwltt'}
+{'id': 914, 'name': 'ijwmc'}
+{'id': 915, 'name': 'ijwmip'}
+{'id': 916, 'name': 'ijwnbt'}
+{'id': 917, 'name': 'ijwp'}
+{'id': 918, 'name': 'ijws'}
+{'id': 919, 'name': 'ijec'}
+{'id': 920, 'name': 'ima j. math. control & information'}
+{'id': 921, 'name': 'impact comput. sci. eng.'}
+{'id': 922, 'name': 'imwut'}
+{'id': 923, 'name': 'infor'}
+{'id': 924, 'name': 'informs journal on computing'}
+{'id': 925, 'name': 'informs trans. education'}
+{'id': 926, 'name': 'ipol journal'}
+{'id': 927, 'name': 'ipsj trans. computer vision and applications'}
+{'id': 928, 'name': 'ipsj trans. system lsi design methodology'}
+{'id': 929, 'name': 'ire trans. electronic computers'}
+{'id': 930, 'name': 'ire trans. information theory'}
+{'id': 931, 'name': 'irmj'}
+{'id': 932, 'name': 'is management'}
+{'id': 933, 'name': 'isprs int. j. geo-information'}
+{'id': 934, 'name': 'isse'}
+{'id': 935, 'name': 'it & people'}
+{'id': 936, 'name': 'it professional'}
+{'id': 937, 'name': 'it for development'}
+{'id': 938, 'name': 'ita'}
+{'id': 939, 'name': 'itc'}
+{'id': 940, 'name': 'itor'}
+{'id': 941, 'name': 'itssa'}
+{'id': 942, 'name': 'itcon'}
+{'id': 943, 'name': 'iwbs report'}
+{'id': 944, 'name': 'image vision comput.'}
+{'id': 945, 'name': 'in silico biology'}
+{'id': 946, 'name': 'industrial management and data systems'}
+{'id': 947, 'name': 'industrial robot'}
+{'id': 948, 'name': 'inf. & comput. security'}
+{'id': 949, 'name': 'inf. comput.'}
+{'id': 950, 'name': 'inf. manag. comput. security'}
+{'id': 951, 'name': 'inf. process. lett.'}
+{'id': 952, 'name': 'inf. process. manage.'}
+{'id': 953, 'name': 'inf. res.'}
+{'id': 954, 'name': 'inf. retr.'}
+{'id': 955, 'name': 'inf. retr. journal'}
+{'id': 956, 'name': 'inf. sci.'}
+{'id': 957, 'name': 'inf. sec. techn. report'}
+{'id': 958, 'name': 'inf. services and use'}
+{'id': 959, 'name': 'inf. soc.'}
+{'id': 960, 'name': 'inf. syst.'}
+{'id': 961, 'name': 'inf. syst. e-business management'}
+{'id': 962, 'name': 'inf. syst. j.'}
+{'id': 963, 'name': 'inf. wiss. & praxis'}
+{'id': 964, 'name': 'inform., forsch. entwickl.'}
+{'id': 965, 'name': 'informatica (slovenia)'}
+{'id': 966, 'name': 'informatica didactica'}
+{'id': 967, 'name': 'informatica, lith. acad. sci.'}
+{'id': 968, 'name': 'informatics'}
+{'id': 969, 'name': 'informatics in education'}
+{'id': 970, 'name': 'informatik spektrum'}
+{'id': 971, 'name': 'information'}
+{'id': 972, 'name': 'information & management'}
+{'id': 973, 'name': 'information & software technology'}
+{'id': 974, 'name': 'information economics and policy'}
+{'id': 975, 'name': 'information fusion'}
+{'id': 976, 'name': 'information polity'}
+{'id': 977, 'name': 'information security journal: a global perspective'}
+{'id': 978, 'name': 'information storage and retrieval'}
+{'id': 979, 'name': 'information systems frontiers'}
+{'id': 980, 'name': 'information systems research'}
+{'id': 981, 'name': 'information systems security'}
+{'id': 982, 'name': 'information technology and management'}
+{'id': 983, 'name': 'information visualization'}
+{'id': 984, 'name': 'information and control'}
+{'id': 985, 'name': 'information and organization'}
+{'id': 986, 'name': 'information, knowledge, systems management'}
+{'id': 987, 'name': 'informingscij'}
+{'id': 988, 'name': "ingénierie des systèmes d'information"}
+{'id': 989, 'name': 'inroads'}
+{'id': 990, 'name': 'int j. information management'}
+{'id': 991, 'name': 'int. arab j. inf. technol.'}
+{'id': 992, 'name': 'int. arab j. e-technol.'}
+{'id': 993, 'name': 'int. j. accounting inf. systems'}
+{'id': 994, 'name': 'int. j. adv. comp. techn.'}
+{'id': 995, 'name': 'int. j. applied earth observation and geoinformation'}
+{'id': 996, 'name': 'int. j. approx. reasoning'}
+{'id': 997, 'name': 'int. j. auton. comp.'}
+{'id': 998, 'name': 'int. j. biomedical imaging'}
+{'id': 999, 'name': 'int. j. communication systems'}
+{'id': 1000, 'name': 'int. j. comp. sci. sport'}
+{'id': 1001, 'name': 'int. j. comput. assist. radiol. surg.'}
+{'id': 1002, 'name': 'int. j. comput. geometry appl.'}
+{'id': 1003, 'name': 'int. j. comput. intell. syst.'}
+{'id': 1004, 'name': 'int. j. comput. linguistics appl.'}
+{'id': 1005, 'name': 'int. j. comput. math.'}
+{'id': 1006, 'name': 'int. j. comput. proc. oriental lang.'}
+{'id': 1007, 'name': 'int. j. comput. syst. signal'}
+{'id': 1008, 'name': 'int. j. computer games technology'}
+{'id': 1009, 'name': 'int. j. computer integrated manufacturing'}
+{'id': 1010, 'name': 'int. j. control'}
+{'id': 1011, 'name': 'int. j. cooperative inf. syst.'}
+{'id': 1012, 'name': 'int. j. data sci. anal.'}
+{'id': 1013, 'name': 'int. j. digital earth'}
+{'id': 1014, 'name': 'int. j. digital multimedia broadcasting'}
+{'id': 1015, 'name': 'int. j. electronic commerce'}
+{'id': 1016, 'name': 'int. j. found. comput. sci.'}
+{'id': 1017, 'name': 'int. j. fuzzy logic and intelligent systems'}
+{'id': 1018, 'name': 'int. j. fuzzy syst.'}
+{'id': 1019, 'name': 'int. j. game theory'}
+{'id': 1020, 'name': 'int. j. general systems'}
+{'id': 1021, 'name': 'int. j. hum. comput. interaction'}
+{'id': 1022, 'name': 'int. j. hum.-comput. stud.'}
+{'id': 1023, 'name': 'int. j. hybrid intell. syst.'}
+{'id': 1024, 'name': 'int. j. it standards and standardization res.'}
+{'id': 1025, 'name': 'int. j. image graphics'}
+{'id': 1026, 'name': 'int. j. imaging systems and technology'}
+{'id': 1027, 'name': 'int. j. inf. sec.'}
+{'id': 1028, 'name': 'int. j. intell. games & simulation'}
+{'id': 1029, 'name': 'int. j. intell. syst.'}
+{'id': 1030, 'name': 'int. j. intelligence science'}
+{'id': 1031, 'name': 'int. j. intelligent computing and cybernetics'}
+{'id': 1032, 'name': 'int. j. intelligent transportation systems research'}
+{'id': 1033, 'name': 'int. j. machine learning & cybernetics'}
+{'id': 1034, 'name': 'int. j. math. mathematical sciences'}
+{'id': 1035, 'name': 'int. j. neural syst.'}
+{'id': 1036, 'name': 'int. j. online biomed. eng.'}
+{'id': 1037, 'name': 'int. j. online eng.'}
+{'id': 1038, 'name': 'int. j. pervasive computing and communications'}
+{'id': 1039, 'name': 'int. j. reconfig. comp.'}
+{'id': 1040, 'name': 'int. j. satellite communications networking'}
+{'id': 1041, 'name': 'int. j. semantic computing'}
+{'id': 1042, 'name': 'int. j. semantic web inf. syst.'}
+{'id': 1043, 'name': 'int. j. serious games'}
+{'id': 1044, 'name': 'int. j. software and informatics'}
+{'id': 1045, 'name': 'int. j. systems assurance engineering and management'}
+{'id': 1046, 'name': 'int. j. systems science'}
+{'id': 1047, 'name': 'int. j. web eng. technol.'}
+{'id': 1048, 'name': 'int. j. web service res.'}
+{'id': 1049, 'name': 'int. j. of applied metaheuristic computing'}
+{'id': 1050, 'name': 'int. j. of asian lang. proc.'}
+{'id': 1051, 'name': 'int. j. on digital libraries'}
+{'id': 1052, 'name': 'int. journal in computer simulation'}
+{'id': 1053, 'name': 'int. journal of network management'}
+{'id': 1054, 'name': 'int. syst. in accounting, finance and management'}
+{'id': 1055, 'name': 'integrated computer-aided engineering'}
+{'id': 1056, 'name': 'integration'}
+{'id': 1057, 'name': 'inteligencia artificial, revista iberoamericana de inteligencia artificial'}
+{'id': 1058, 'name': 'intell. data anal.'}
+{'id': 1059, 'name': 'intelligence'}
+{'id': 1060, 'name': 'intelligent automation & soft computing'}
+{'id': 1061, 'name': 'intelligent decision technologies'}
+{'id': 1062, 'name': 'intelligent information management'}
+{'id': 1063, 'name': 'intelligent service robotics'}
+{'id': 1064, 'name': 'intelligent tutoring media'}
+{'id': 1065, 'name': 'intelligenza artificiale'}
+{'id': 1066, 'name': 'interact. techn. smart edu.'}
+{'id': 1067, 'name': 'interacting with computers'}
+{'id': 1068, 'name': 'interactions'}
+{'id': 1069, 'name': 'interactive learning environments'}
+{'id': 1070, 'name': 'interfaces'}
+{'id': 1071, 'name': 'international journal of computational engineering science'}
+{'id': 1072, 'name': 'international journal of computational intelligence and applications'}
+{'id': 1073, 'name': 'international journal of computer vision'}
+{'id': 1074, 'name': 'international journal of geographical information science'}
+{'id': 1075, 'name': 'international journal of geographical information systems'}
+{'id': 1076, 'name': 'international journal of high speed computing'}
+{'id': 1077, 'name': 'international journal of information technology and decision making'}
+{'id': 1078, 'name': 'international journal of internet and enterprise management'}
+{'id': 1079, 'name': 'international journal of man-machine studies'}
+{'id': 1080, 'name': 'international journal of parallel programming'}
+{'id': 1081, 'name': 'international journal of shape modeling'}
+{'id': 1082, 'name': 'international journal of software engineering and knowledge engineering'}
+{'id': 1083, 'name': 'international journal of uncertainty, fuzziness and knowledge-based systems'}
+{'id': 1084, 'name': 'international journal on artificial intelligence tools'}
+{'id': 1085, 'name': 'internet mathematics'}
+{'id': 1086, 'name': 'internet research'}
+{'id': 1087, 'name': 'internet technol. lett.'}
+{'id': 1088, 'name': 'internet of things'}
+{'id': 1089, 'name': 'ixd&a'}
+{'id': 1090, 'name': 'j. acm'}
+{'id': 1091, 'name': 'j. ais'}
+{'id': 1092, 'name': 'j. adv. eng. comput.'}
+{'id': 1093, 'name': 'j. adv. inf. fusion'}
+{'id': 1094, 'name': 'j. aerospace inf. sys.'}
+{'id': 1095, 'name': 'j. algorithms'}
+{'id': 1096, 'name': 'j. ambient intelligence and humanized computing'}
+{'id': 1097, 'name': 'j. appl. comput. topol.'}
+{'id': 1098, 'name': 'j. applied logic'}
+{'id': 1099, 'name': 'j. applied mathematics'}
+{'id': 1100, 'name': 'j. applied probability'}
+{'id': 1101, 'name': 'j. artif. intell. res.'}
+{'id': 1102, 'name': 'j. artif. intell. res. (jair)'}
+{'id': 1103, 'name': 'j. artif. intell. soft comput. res.'}
+{'id': 1104, 'name': 'j. artificial general intelligence'}
+{'id': 1105, 'name': 'j. artificial societies and social simulation'}
+{'id': 1106, 'name': 'j. autom. reasoning'}
+{'id': 1107, 'name': 'j. big data'}
+{'id': 1108, 'name': 'j. bioinformatics and computational biology'}
+{'id': 1109, 'name': 'j. biomedical semantics'}
+{'id': 1110, 'name': 'j. braz. comp. soc.'}
+{'id': 1111, 'name': 'j. cases on inf. techn.'}
+{'id': 1112, 'name': 'j. cellular automata'}
+{'id': 1113, 'name': 'j. cheminformatics'}
+{'id': 1114, 'name': 'j. classification'}
+{'id': 1115, 'name': 'j. clinical bioinformatics'}
+{'id': 1116, 'name': 'j. cloud computing'}
+{'id': 1117, 'name': 'j. cognitive neuroscience'}
+{'id': 1118, 'name': 'j. comb. optim.'}
+{'id': 1119, 'name': 'j. comb. theory, ser. a'}
+{'id': 1120, 'name': 'j. comb. theory, ser. b'}
+{'id': 1121, 'name': 'j. comm. inform. networks'}
+{'id': 1122, 'name': 'j. community informatics'}
+{'id': 1123, 'name': 'j. comp. assisted learning'}
+{'id': 1124, 'name': 'j. complex networks'}
+{'id': 1125, 'name': 'j. complexity'}
+{'id': 1126, 'name': 'j. comput. inf. sci. eng.'}
+{'id': 1127, 'name': 'j. comput. lang.'}
+{'id': 1128, 'name': 'j. comput. meth. in science and engineering'}
+{'id': 1129, 'name': 'j. comput. physics'}
+{'id': 1130, 'name': 'j. comput. res. dev.'}
+{'id': 1131, 'name': 'j. comput. sci. technol.'}
+{'id': 1132, 'name': 'j. comput. science'}
+{'id': 1133, 'name': 'j. comput. syst. sci.'}
+{'id': 1134, 'name': 'j. computational applied mathematics'}
+{'id': 1135, 'name': 'j. computational design and engineering'}
+{'id': 1136, 'name': 'j. computational engineering'}
+{'id': 1137, 'name': 'j. computer virology and hacking techniques'}
+{'id': 1138, 'name': 'j. computer-mediated communication'}
+{'id': 1139, 'name': 'j. computing in higher education'}
+{'id': 1140, 'name': 'j. control. sci. eng.'}
+{'id': 1141, 'name': 'j. cryptographic engineering'}
+{'id': 1142, 'name': 'j. cryptology'}
+{'id': 1143, 'name': 'j. cybersecurity'}
+{'id': 1144, 'name': 'j. data semantics'}
+{'id': 1145, 'name': 'j. data and information quality'}
+{'id': 1146, 'name': 'j. database manag.'}
+{'id': 1147, 'name': 'j. digit. inf.'}
+{'id': 1148, 'name': 'j. digital forensic practice'}
+{'id': 1149, 'name': 'j. digital imaging'}
+{'id': 1150, 'name': 'j. discrete algorithms'}
+{'id': 1151, 'name': 'j. economic theory'}
+{'id': 1152, 'name': 'j. electrical and computer engineering'}
+{'id': 1153, 'name': 'j. electron. commerce res.'}
+{'id': 1154, 'name': 'j. electron. publ.'}
+{'id': 1155, 'name': 'j. electronic imaging'}
+{'id': 1156, 'name': 'j. electronic testing'}
+{'id': 1157, 'name': 'j. embedded computing'}
+{'id': 1158, 'name': 'j. enterprise inf. management'}
+{'id': 1159, 'name': 'j. exp. theor. artif. intell.'}
+{'id': 1160, 'name': 'j. field robotics'}
+{'id': 1161, 'name': 'j. formalized reasoning'}
+{'id': 1162, 'name': 'j. franklin institute'}
+{'id': 1163, 'name': 'j. funct. program.'}
+{'id': 1164, 'name': 'j. geographic information system'}
+{'id': 1165, 'name': 'j. global optimization'}
+{'id': 1166, 'name': 'j. graph algorithms appl.'}
+{'id': 1167, 'name': 'j. graphics tools'}
+{'id': 1168, 'name': 'j. graphics, gpu, & game tools'}
+{'id': 1169, 'name': 'j. grid comput.'}
+{'id': 1170, 'name': 'j. hardware and systems security'}
+{'id': 1171, 'name': 'j. heuristics'}
+{'id': 1172, 'name': 'j. high speed networks'}
+{'id': 1173, 'name': 'j. imaging'}
+{'id': 1174, 'name': 'j. inf. sci.'}
+{'id': 1175, 'name': 'j. inf. sci. eng.'}
+{'id': 1176, 'name': 'j. inf. sec. appl.'}
+{'id': 1177, 'name': 'j. inf. technol. theory appl.'}
+{'id': 1178, 'name': 'j. inf., comm, ethics in society'}
+{'id': 1179, 'name': 'j. inform. and commun. convergence engineering'}
+{'id': 1180, 'name': 'j. information security'}
+{'id': 1181, 'name': 'j. information systems'}
+{'id': 1182, 'name': 'j. information telecommunication'}
+{'id': 1183, 'name': 'j. informetrics'}
+{'id': 1184, 'name': 'j. innovation in digital ecosystems'}
+{'id': 1185, 'name': 'j. instruction-level parallelism'}
+{'id': 1186, 'name': 'j. integrated design & process science'}
+{'id': 1187, 'name': 'j. integrative bioinformatics'}
+{'id': 1188, 'name': 'j. intell. inf. syst.'}
+{'id': 1189, 'name': 'j. intellig. transport. systems'}
+{'id': 1190, 'name': 'j. intelligent manufacturing'}
+{'id': 1191, 'name': 'j. intelligent systems'}
+{'id': 1192, 'name': 'j. internet serv. inf. secur.'}
+{'id': 1193, 'name': 'j. internet services and applications'}
+{'id': 1194, 'name': 'j. knowledge management'}
+{'id': 1195, 'name': 'j. language modelling'}
+{'id': 1196, 'name': 'j. location based services'}
+{'id': 1197, 'name': 'j. log. algebr. meth. program.'}
+{'id': 1198, 'name': 'j. log. algebr. program.'}
+{'id': 1199, 'name': 'j. log. comput.'}
+{'id': 1200, 'name': 'j. log. program.'}
+{'id': 1201, 'name': 'j. logic & analysis'}
+{'id': 1202, 'name': 'j. london math. society'}
+{'id': 1203, 'name': 'j. low power electronics'}
+{'id': 1204, 'name': 'j. mach. learn. res.'}
+{'id': 1205, 'name': 'j. math. model. algorithms'}
+{'id': 1206, 'name': 'j. math. model. algorithms in or'}
+{'id': 1207, 'name': 'j. mathematical cryptology'}
+{'id': 1208, 'name': 'j. mathematical logic'}
+{'id': 1209, 'name': 'j. media psychology'}
+{'id': 1210, 'name': 'j. medical systems'}
+{'id': 1211, 'name': 'j. mobile multimedia'}
+{'id': 1212, 'name': 'j. multimodal user interfaces'}
+{'id': 1213, 'name': 'j. multivariate analysis'}
+{'id': 1214, 'name': 'j. network syst. manage.'}
+{'id': 1215, 'name': 'j. network and computer applications'}
+{'id': 1216, 'name': 'j. nonlinear science'}
+{'id': 1217, 'name': 'j. num. math.'}
+{'id': 1218, 'name': 'j. open source software'}
+{'id': 1219, 'name': 'j. optimization theory and applications'}
+{'id': 1220, 'name': 'j. org. computing'}
+{'id': 1221, 'name': 'j. org. computing and e. commerce'}
+{'id': 1222, 'name': 'j. parallel distrib. comput.'}
+{'id': 1223, 'name': 'j. philosophical logic'}
+{'id': 1224, 'name': 'j. phonetics'}
+{'id': 1225, 'name': 'j. priv. confidentiality'}
+{'id': 1226, 'name': 'j. prog. lang.'}
+{'id': 1227, 'name': 'j. quantum information science'}
+{'id': 1228, 'name': 'j. real-time image processing'}
+{'id': 1229, 'name': 'j. reliable intelligent environments'}
+{'id': 1230, 'name': 'j. riga technical university'}
+{'id': 1231, 'name': 'j. robotics'}
+{'id': 1232, 'name': 'j. scheduling'}
+{'id': 1233, 'name': 'j. sci. comput.'}
+{'id': 1234, 'name': 'j. sci. res.'}
+{'id': 1235, 'name': 'j. sel. topics signal processing'}
+{'id': 1236, 'name': 'j. semantics'}
+{'id': 1237, 'name': 'j. sensor technology'}
+{'id': 1238, 'name': 'j. sensor and actuator networks'}
+{'id': 1239, 'name': 'j. sensors'}
+{'id': 1240, 'name': 'j. signal and information processing'}
+{'id': 1241, 'name': 'j. simulation'}
+{'id': 1242, 'name': 'j. software eng. r&d'}
+{'id': 1243, 'name': 'j. solid-state circuits'}
+{'id': 1244, 'name': 'j. spatial information science'}
+{'id': 1245, 'name': 'j. strategic inf. sys.'}
+{'id': 1246, 'name': 'j. symb. comput.'}
+{'id': 1247, 'name': 'j. symb. log.'}
+{'id': 1248, 'name': 'j. systems & control engineering'}
+{'id': 1249, 'name': 'j. systems science & complexity'}
+{'id': 1250, 'name': 'j. systems and it'}
+{'id': 1251, 'name': 'j. ucs'}
+{'id': 1252, 'name': 'j. vis. lang. comput.'}
+{'id': 1253, 'name': 'j. visual communication and image representation'}
+{'id': 1254, 'name': 'j. visualization'}
+{'id': 1255, 'name': 'j. web eng.'}
+{'id': 1256, 'name': 'j. web science'}
+{'id': 1257, 'name': 'j. web semant.'}
+{'id': 1258, 'name': 'j. of it & tourism'}
+{'id': 1259, 'name': 'j. of management information systems'}
+{'id': 1260, 'name': 'jacic'}
+{'id': 1261, 'name': 'jaciii'}
+{'id': 1262, 'name': 'jaise'}
+{'id': 1263, 'name': 'jamds'}
+{'id': 1264, 'name': 'jamia'}
+{'id': 1265, 'name': 'jasis'}
+{'id': 1266, 'name': 'jasist'}
+{'id': 1267, 'name': 'jcis'}
+{'id': 1268, 'name': 'jcit'}
+{'id': 1269, 'name': 'jcm'}
+{'id': 1270, 'name': 'jcp'}
+{'id': 1271, 'name': 'jcs'}
+{'id': 1272, 'name': 'jcse'}
+{'id': 1273, 'name': 'jdcta'}
+{'id': 1274, 'name': 'jdfsl'}
+{'id': 1275, 'name': 'jdim'}
+{'id': 1276, 'name': 'jdmdh'}
+{'id': 1277, 'name': 'jeco'}
+{'id': 1278, 'name': 'jetc'}
+{'id': 1279, 'name': 'jgim'}
+{'id': 1280, 'name': 'jidm'}
+{'id': 1281, 'name': 'jikm'}
+{'id': 1282, 'name': 'jilsa'}
+{'id': 1283, 'name': 'jip'}
+{'id': 1284, 'name': 'jips'}
+{'id': 1285, 'name': 'jise'}
+{'id': 1286, 'name': 'jit'}
+{'id': 1287, 'name': 'jite'}
+{'id': 1288, 'name': 'jitr'}
+{'id': 1289, 'name': 'jlcl'}
+{'id': 1290, 'name': 'jmpt'}
+{'id': 1291, 'name': 'jnc'}
+{'id': 1292, 'name': 'jnit'}
+{'id': 1293, 'name': 'jnw'}
+{'id': 1294, 'name': 'jocch'}
+{'id': 1295, 'name': 'joeuc'}
+{'id': 1296, 'name': 'jolis'}
+{'id': 1297, 'name': 'joop'}
+{'id': 1298, 'name': 'jors'}
+{'id': 1299, 'name': 'jrm'}
+{'id': 1300, 'name': 'jrnal'}
+{'id': 1301, 'name': 'jrtpm'}
+{'id': 1302, 'name': 'jsat'}
+{'id': 1303, 'name': 'jsea'}
+{'id': 1304, 'name': 'jsta'}
+{'id': 1305, 'name': 'jsw'}
+{'id': 1306, 'name': 'jtaer'}
+{'id': 1307, 'name': 'jthtl'}
+{'id': 1308, 'name': 'juspn'}
+{'id': 1309, 'name': 'jvrb'}
+{'id': 1310, 'name': 'jocg'}
+{'id': 1311, 'name': 'joss'}
+{'id': 1312, 'name': 'jossr'}
+{'id': 1313, 'name': 'jowua'}
+{'id': 1314, 'name': 'journal comp. netw. and communic.'}
+{'id': 1315, 'name': 'journal in computer virology'}
+{'id': 1316, 'name': 'journal of applied non-classical logics'}
+{'id': 1317, 'name': 'journal of approximation theory'}
+{'id': 1318, 'name': 'journal of automata, languages and combinatorics'}
+{'id': 1319, 'name': 'journal of biomedical informatics'}
+{'id': 1320, 'name': 'journal of chemical information and computer sciences'}
+{'id': 1321, 'name': 'journal of chemical information and modeling'}
+{'id': 1322, 'name': 'journal of chinese language and computing'}
+{'id': 1323, 'name': 'journal of circuits, systems, and computers'}
+{'id': 1324, 'name': 'journal of communications and networks'}
+{'id': 1325, 'name': 'journal of computational biology'}
+{'id': 1326, 'name': 'journal of computational chemistry'}
+{'id': 1327, 'name': 'journal of computational neuroscience'}
+{'id': 1328, 'name': 'journal of computer security'}
+{'id': 1329, 'name': 'journal of computer-aided molecular design'}
+{'id': 1330, 'name': 'journal of decision systems'}
+{'id': 1331, 'name': 'journal of documentation'}
+{'id': 1332, 'name': 'journal of functional and logic programming'}
+{'id': 1333, 'name': 'journal of geographical systems'}
+{'id': 1334, 'name': 'journal of graph theory'}
+{'id': 1335, 'name': 'journal of information, law and technology'}
+{'id': 1336, 'name': 'journal of intelligent and fuzzy systems'}
+{'id': 1337, 'name': 'journal of intelligent and robotic systems'}
+{'id': 1338, 'name': 'journal of interconnection networks'}
+{'id': 1339, 'name': 'journal of logic, language and information'}
+{'id': 1340, 'name': 'journal of mathematical imaging and vision'}
+{'id': 1341, 'name': 'journal of multimedia'}
+{'id': 1342, 'name': 'journal of object technology'}
+{'id': 1343, 'name': 'journal of quantitative linguistics'}
+{'id': 1344, 'name': 'journal of research and practice in information technology'}
+{'id': 1345, 'name': 'journal of social structure'}
+{'id': 1346, 'name': 'journal of software maintenance'}
+{'id': 1347, 'name': 'journal of software: evolution and process'}
+{'id': 1348, 'name': 'journal of systems architecture'}
+{'id': 1349, 'name': 'journal of systems architecture - embedded systems design'}
+{'id': 1350, 'name': 'journal of systems integration'}
+{'id': 1351, 'name': 'journal of systems and software'}
+{'id': 1352, 'name': 'journal of visualization and computer animation'}
+{'id': 1353, 'name': 'journal of wscg'}
+{'id': 1354, 'name': 'journal of zhejiang university - science c'}
+{'id': 1355, 'name': 'kes journal'}
+{'id': 1356, 'name': 'ki'}
+{'id': 1357, 'name': 'knowl. inf. syst.'}
+{'id': 1358, 'name': 'knowl.-based syst.'}
+{'id': 1359, 'name': 'knowledge eng. review'}
+{'id': 1360, 'name': 'kognitionswissenschaft'}
+{'id': 1361, 'name': 'kybernetes'}
+{'id': 1362, 'name': 'kybernetik'}
+{'id': 1363, 'name': 'kybernetika'}
+{'id': 1364, 'name': "l'objet"}
+{'id': 1365, 'name': 'ldv forum'}
+{'id': 1366, 'name': 'lilog-memo'}
+{'id': 1367, 'name': 'lilog-report'}
+{'id': 1368, 'name': 'lites'}
+{'id': 1369, 'name': 'llc'}
+{'id': 1370, 'name': 'lncs trans. aspect oriented softw. dev.'}
+{'id': 1371, 'name': 'lncs trans. modul. compos.'}
+{'id': 1372, 'name': 'log in'}
+{'id': 1373, 'name': 'loplas'}
+{'id': 1374, 'name': 'language resources and evaluation'}
+{'id': 1375, 'name': 'language and linguistics compass'}
+{'id': 1376, 'name': 'learned publishing'}
+{'id': 1377, 'name': 'ledger'}
+{'id': 1378, 'name': 'library hi tech'}
+{'id': 1379, 'name': 'library trends'}
+{'id': 1380, 'name': 'linguamática'}
+{'id': 1381, 'name': 'lisp and symbolic computation'}
+{'id': 1382, 'name': 'logic & analysis'}
+{'id': 1383, 'name': 'logic journal of the igpl'}
+{'id': 1384, 'name': 'logica universalis'}
+{'id': 1385, 'name': 'logical methods in computer science'}
+{'id': 1386, 'name': 'logistics research'}
+{'id': 1387, 'name': 'masa'}
+{'id': 1388, 'name': 'mcfns'}
+{'id': 1389, 'name': 'mcss'}
+{'id': 1390, 'name': 'mis quarterly'}
+{'id': 1391, 'name': 'mis quarterly executive'}
+{'id': 1392, 'name': 'mmi interaktiv'}
+{'id': 1393, 'name': 'monet'}
+{'id': 1394, 'name': 'mach. vis. appl.'}
+{'id': 1395, 'name': 'machine learning'}
+{'id': 1396, 'name': 'machine learning and knowledge extraction'}
+{'id': 1397, 'name': 'machine translation'}
+{'id': 1398, 'name': 'management science'}
+{'id': 1399, 'name': 'manufacturing & service operations management'}
+{'id': 1400, 'name': 'marketing science'}
+{'id': 1401, 'name': 'markup languages'}
+{'id': 1402, 'name': 'math. comput.'}
+{'id': 1403, 'name': 'math. log. q.'}
+{'id': 1404, 'name': 'math. meth. of or'}
+{'id': 1405, 'name': 'math. oper. res.'}
+{'id': 1406, 'name': 'math. program.'}
+{'id': 1407, 'name': 'math. program. comput.'}
+{'id': 1408, 'name': 'mathematical social sciences'}
+{'id': 1409, 'name': 'mathematical structures in computer science'}
+{'id': 1410, 'name': 'mathematical systems theory'}
+{'id': 1411, 'name': 'mathematical and computer modelling'}
+{'id': 1412, 'name': 'mathematics and computers in simulation'}
+{'id': 1413, 'name': 'mathematics in computer science'}
+{'id': 1414, 'name': 'mech. translat. & comp. linguistics'}
+{'id': 1415, 'name': 'mechanical translation'}
+{'id': 1416, 'name': 'mechatronic systems and control'}
+{'id': 1417, 'name': 'med. biol. engineering and computing'}
+{'id': 1418, 'name': 'medical image analysis'}
+{'id': 1419, 'name': 'memetic computing'}
+{'id': 1420, 'name': 'meth. of logic in cs'}
+{'id': 1421, 'name': 'microelectronics journal'}
+{'id': 1422, 'name': 'microelectronics reliability'}
+{'id': 1423, 'name': 'micromachines'}
+{'id': 1424, 'name': 'microprocessing and microprogramming'}
+{'id': 1425, 'name': 'microprocessors'}
+{'id': 1426, 'name': 'microprocessors and microsystems'}
+{'id': 1427, 'name': 'microprocessors and microsystems - embedded hardware design'}
+{'id': 1428, 'name': 'minds and machines'}
+{'id': 1429, 'name': 'mobile computing and communications review'}
+{'id': 1430, 'name': 'mobile information systems'}
+{'id': 1431, 'name': 'modulad'}
+{'id': 1432, 'name': 'monte carlo meth. and appl.'}
+{'id': 1433, 'name': 'multiagent and grid systems'}
+{'id': 1434, 'name': 'multidim. syst. sign. process.'}
+{'id': 1435, 'name': 'multimedia syst.'}
+{'id': 1436, 'name': 'multimedi'}

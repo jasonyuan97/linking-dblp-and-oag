@@ -40,7 +40,7 @@ class Parser {
         System.out.format("MMDB ready: %d publs, %d pers\n\n", dblp.numberOfPublications(), dblp.numberOfPersons());
 
         // write the journals into a file
-        String journalFileName = "dblp_venues.txt";
+        String journalFileName = "raw_dblp_venues.txt";
         try {
             BufferedWriter writer = new BufferedWriter(new FileWriter(journalFileName));
             for(JournalTitle jt : dblp.getJournals()) {
