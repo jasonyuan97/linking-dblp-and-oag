@@ -1,0 +1,1437 @@
+4or
+;login:
+acm comm. computer algebra
+acm comput. surv.
+acm crossroads
+acm journal of computer documentation
+acm journal of educational resources in computing
+acm journal of experimental algorithmics
+acm queue
+acm sigaccess
+acm sigapl apl quote quad
+acm sigmod anthology
+acm sigmod digital review
+acm sigmod digital symposium collection
+acm sigsam bulletin
+acm sigsoft software engineering notes
+acm standardview
+acm tist
+acm trans. algorithms
+acm trans. asian & low-resource lang. inf. process.
+acm trans. asian lang. inf. process.
+acm trans. comput. log.
+acm trans. comput. syst.
+acm trans. comput.-hum. interact.
+acm trans. database syst.
+acm trans. design autom. electr. syst.
+acm trans. economics and comput.
+acm trans. embedded comput. syst.
+acm trans. graph.
+acm trans. inf. syst.
+acm trans. inf. syst. secur.
+acm trans. internet techn.
+acm trans. management inf. syst.
+acm trans. math. softw.
+acm trans. model. comput. simul.
+acm trans. priv. secur.
+acm trans. program. lang. syst.
+acm trans. social computing
+acm trans. softw. eng. methodol.
+acm trans. spatial algorithms and systems
+ads
+agit journal
+ai commun.
+ai edam
+ai magazine
+ai matters
+ai soc.
+ai in engineering
+ais trans. hum. comput. interact.
+ais trans. replication res.
+aiss
+akce int. j. graphs comb.
+ansi x2h2
+ansi x3h2
+apjor
+arist
+asta wirtschafts- und sozialstatistisches archiv
+acta cybern.
+acta inf.
+acta informatica pragensia
+acta numer.
+ad hoc & sensor wireless networks
+ad hoc networks
+adaptive behaviour
+adv. appl. math.
+adv. artificial intellegence
+adv. artificial neural systems
+adv. bioinformatics
+adv. comput. math.
+adv. data analysis and classification
+adv. fuzzy systems
+adv. human-computer interaction
+adv. internet of things
+adv. model. and simul. in eng. sciences
+adv. numerical analysis
+adv. operations research
+adv. software engineering
+adv. in mm
+adv. in math. of comm.
+advanced engineering informatics
+advanced robotics
+advances in adaptive data analysis
+advances in complex systems
+advances in computers
+advances in computing research
+advances in engineering software
+african j. of inf. & commun. technology
+algorithmic finance
+algorithmic operations research
+algorithmica
+algorithms
+algorithms for molecular biology
+american j. computational mathematics
+american journal of computational linguistics
+angewandte informatik
+ann. math. artif. intell.
+ann. math. logic
+ann. pure appl. logic
+ann. software eng.
+annales umcs, informatica
+annales des télécommunications
+annals or
+annals of gis
+annual reviews in control
+appl. algebra eng. commun. comput.
+appl. comput. syst.
+appl. intell.
+appl. math. lett.
+appl. soft comput.
+applied artificial intelligence
+applied categorical structures
+applied comp. int. soft computing
+applied mathematics and computation
+applied mathematics and computer science
+applied network science
+applied ontology
+arch. math. log.
+archive of formal proofs
+archives and museum informatics
+argument & computation
+ars comb.
+ars math. contemp.
+art discret. appl. math.
+artif. intell.
+artif. intell. law
+artif. intell. research
+artif. intell. rev.
+artificial intelligence in medicine
+artificial life
+aslib j. inf. manag.
+aslib proceedings
+asymptotic analysis
+austr. j. intelligent information processing systems
+australasian j. combinatorics
+australasian j. of inf. systems
+australian computer journal
+autom. softw. eng.
+automatic control and computer sciences
+automatica
+automation and remote control
+automatisierungstechnik
+auton. robots
+autonomous agents and multi-agent systems
+axioms
+biaa
+bit
+bjet
+bmc bioinformatics
+bmc genomics
+bmc med. inf. & decision making
+bmc medical imaging
+bmc systems biology
+behaviour & it
+bell labs technical journal
+big data
+big data research
+bio-algorithms and med-systems
+biodata mining
+bioinformatics
+bioinformatics [ismb/eccb]
+bioinformatics [ismb]
+biological cybernetics
+biomed. signal proc. and control
+biosystems
+brain connectivity
+brain informatics
+briefings in bioinformatics
+bull. acad. polon. sci., sér. sci. math. astronom. phys.
+bulletin of symbolic logic
+bulletin of the eatcs
+bulletin of the igpl
+business & information systems engineering
+business proc. manag. journal
+c&rl
+caai trans. intell. technol.
+cais
+casm
+cejor
+cit
+clei electron. j.
+cmbbe: imaging & visualization
+cmg transactions
+csimq
+cssp
+cvgip: graphical model and image processing
+cvgip: image understanding
+cartographica
+central europ. j. computer science
+chicago j. theor. comput. sci.
+circuits and systems
+cluster computing
+corr
+cognition, technology & work
+cognitive computation
+cognitive processing
+cognitive science
+cognitive systems research
+combinatorica
+combinatorics, probability & computing
+commun. acm
+communication research
+communications and network
+communications in statistics - simulation and computation
+comp. applic. in engineering education
+comp. int. and neurosc.
+comp. math. methods in medicine
+comp. med. imag. and graph.
+comp. opt. and appl.
+comp. and biomed. research
+comp. in bio. and med.
+comp.-aided civil and infrastruct. engineering
+complex systems
+complexity
+compulog newsletter
+comput. geom.
+comput. graph. forum
+comput. j.
+comput. lang.
+comput. manag. science
+comput. meth. in appl. math.
+comput. sci. inf. syst.
+comput. syst. sci. eng.
+computability
+computación y sistemas
+computat. and visualiz. in science
+computation
+computational & mathematical organization theory
+computational biology and chemistry
+computational complexity
+computational intelligence
+computational linguistics
+computational statistics & data analysis
+computational visual media
+computer aided geometric design
+computer applications in the biosciences
+computer architecture letters
+computer communication review
+computer communications
+computer graphics and image processing
+computer languages, systems & structures
+computer methods and programs in biomedicine
+computer music journal
+computer networks
+computer networks and isbn systems
+computer networks and isdn systems
+computer physics communications
+computer science (agh)
+computer science - r&d
+computer science education
+computer science review
+computer speech & language
+computer standards & interfaces
+computer supported cooperative work
+computer vision and image understanding
+computer vision, graphics, and image processing
+computer and information science
+computer und recht
+computer-aided design
+computers
+computers & chemical engineering
+computers & chemistry
+computers & education
+computers & electrical engineering
+computers & geosciences
+computers & graphics
+computers & industrial engineering
+computers & mathematics with applications
+computers & or
+computers & security
+computers and artificial intelligence
+computers and electronics in agriculture
+computers and the humanities
+computers in entertainment
+computers in human behavior
+computers in industry
+computers, environment and urban systems
+computerworld
+computing
+computing systems
+computing and informatics
+computing in science and engineering
+concurrency - practice and experience
+concurrency and computation: practice and experience
+concurrent engineering: r&a
+connect. sci.
+constraints
+contributions to discrete mathematics
+control and cybernetics
+control and intelligent systems
+cryptography
+cryptography and communications
+cryptologia
+cybernetics and human knowing
+cybernetics and systems
+cyberpsy., behavior, and soc. networking
+cybersecurity
+d&d
+d-lib mag.
+darts
+data base
+dsh
+dagstuhl manifestos
+dagstuhl reports
+data
+data knowl. eng.
+data min. knowl. discov.
+data quality journal
+data sci.
+data science journal
+data science and engineering
+data technol. appl.
+database
+datenbank rundbrief
+datenbank-spektrum
+datenschutz und datensicherheit
+decision analysis
+decision analytics
+decision sciences
+decision support systems
+des. codes cryptogr.
+design autom. for emb. sys.
+digital creativity
+digital humanities quarterly
+digital investigation
+digital library perspectives
+digital signal processing
+digital system research center report
+digital technical journal
+discrete & computational geometry
+discrete applied mathematics
+discrete event dynamic systems
+discrete math., alg. and appl.
+discrete mathematics
+discrete mathematics & theoretical computer science
+discrete optimization
+discussiones mathematicae graph theory
+displays
+distributed computing
+distributed systems engineering
+distributed and parallel databases
+document numérique
+dynamic games and applications
+eai endorsed trans. ambient systems
+eai endorsed trans. cloud systems
+eai endorsed trans. cognitive communications
+eai endorsed trans. collaborative computing
+eai endorsed trans. complex systems
+eai endorsed trans. context-aware syst. & appl.
+eai endorsed trans. creative technologies
+eai endorsed trans. energy web
+eai endorsed trans. future intellig. educat. env.
+eai endorsed trans. indust. netw. & intellig. syst.
+eai endorsed trans. mobile communications applications
+eai endorsed trans. pervasive health technol.
+eai endorsed trans. scalable information systems
+eai endorsed trans. security safety
+eai endorsed trans. self-adaptive systems
+eai endorsed trans. serious games
+eai endorsed trans. ubiquitous environments
+eai endorsed trans. wireless spectrum
+eai endorsed trans. e-business
+eai endorsed trans. e-learning
+eait
+eceasst
+eg
+ejgta
+ejis
+emisa forum
+epj data sci.
+ercim news
+eurasip j. adv. sig. proc.
+eurasip j. audio, speech and music processing
+eurasip j. bioinformatics and systems biology
+eurasip j. emb. sys.
+eurasip j. image and video processing
+eurasip j. information security
+eurasip j. wireless comm. and networking
+euro j. computational optimization
+euro j. transportation and logistics
+earth science informatics
+ecological informatics
+education for information
+educational technology & society
+egyptian computer science journal
+electr. j. comb.
+electr. notes theor. comput. sci.
+electron. trans. artif. intell.
+electronic colloquium on computational complexity (eccc)
+electronic commerce research
+electronic commerce research and applications
+electronic markets
+electronic networking: research, applications and policy
+electronic notes in discrete mathematics
+electronic publishing
+elektronische informationsverarbeitung und kybernetik
+elektronische rechenanlagen
+elektrotechnik und informationstechnik
+embedded systems letters
+empirical software engineering
+eng. appl. of ai
+eng. comput. (lond.)
+engineering letters
+enterprise is
+enterprise modelling and information systems architectures
+entertainment computing
+entropy
+environmental modelling and software
+ethics inf. technol.
+eur. j. comb.
+eur. j. control
+european journal of law and technology
+european journal of operational research
+european transactions on telecommunications
+evolutionary computation
+evolutionary intelligence
+evolving systems
+experimental mathematics
+expert syst. appl.
+expert systems
+fdt - bulletin of acm sigfidet
+fdt - bulletin of acm sigmod
+flap
+fo & dm
+finance and stochastics
+finite fields and their applications
+first monday
+formal asp. comput.
+formal methods in system design
+formalized mathematics
+foundations and trends in communications and information theory
+foundations and trends in computer graphics and vision
+foundations and trends in databases
+foundations and trends in electronic design automation
+foundations and trends in human-computer interaction
+foundations and trends in information retrieval
+foundations and trends in information systems
+foundations and trends in machine learning
+foundations and trends in microeconomics
+foundations and trends in networking
+foundations and trends in optimization
+foundations and trends in privacy and security
+foundations and trends in programming languages
+foundations and trends in robotics
+foundations and trends in signal processing
+foundations and trends in stochastic systems
+foundations and trends in systems and control
+foundations and trends in technology, information and operations management
+foundations and trends in theoretical computer science
+foundations and trends in web science
+foundations of computational mathematics
+front. comput. neurosci.
+front. digital humanities
+front. ict
+front. neuroinform.
+front. neurorobot.
+front. robotics and ai
+frontiers comput. sci.
+frontiers comput. sci. china
+frontiers of it & ee
+fundam. inform.
+future generation comp. syst.
+future internet
+fuzzy sets and systems
+gi datenbank rundbrief
+gte laboratories incorporated
+game studies
+games
+games and economic behavior
+genetic programming and evolvable machines
+genomics, proteomics & bioinformatics
+geo-spatial information science
+geoinformatica
+getmobile
+glottometrics
+government information quarterly
+grammars
+graphical models
+graphical models and image processing
+graphs and combinatorics
+grey systems: t&a
+groups complexity cryptology
+hcis
+hmd - praxis wirtschaftsinform.
+health inf. sci. syst.
+health informatics journal
+higher-order and symbolic computation
+history and computing
+human factors
+human-computer interaction
+hydrology and earth system sciences
+hypermedia
+i. j.  computational biology and drug design
+i. j. artificial intelligence in education
+i. j. bifurcation and chaos
+i. j. circuit theory and applications
+i. j. comput. appl.
+i. j. computational biology and drug design
+i. j. computer-supported collaborative learning
+i. j. computers for math. learning
+i. j. functional informatics and personalised medicine
+i. j. humanoid robotics
+i. j. information acquisition
+i. j. knowledge and web intelligence
+i. j. law and information technology
+i. j. medical informatics
+i. j. network security
+i. j. rf technol.: res. and appl.
+i. j. robotics res.
+i. j. robotics and automation
+i. j. social robotics
+i. j. speech technology
+i. j. wireless & optical communications
+iacr cryptology eprint archive
+iacr trans. cryptogr. hardw. embed. syst.
+iacr trans. symmetric cryptol.
+ibis
+ibm journal of research and development
+ibm publication
+ibm research report
+ibm research report, san jose, california
+ibm systems journal
+icga journal
+icst trans. ambient systems
+icst trans. mobile communications applications
+icst trans. security safety
+icst trans. e-education e-learning
+iee proceedings - software
+ieee access
+ieee annals of the history of computing
+ieee caa j. autom. sinica
+ieee cloud computing
+ieee communications letters
+ieee communications magazine
+ieee communications standards magazine
+ieee communications surveys and tutorials
+ieee comp. int. mag.
+ieee computational intelligence bulletin
+ieee computer
+ieee computer graphics and applications
+ieee concurrency
+ieee consumer electronics magazine
+ieee control systems letters
+ieee data eng. bull.
+ieee database eng. bull.
+ieee design & test
+ieee design & test of computers
+ieee distributed systems online
+ieee expert
+ieee geosci. remote sensing lett.
+ieee instrum. meas. mag.
+ieee intell. transport. syst. mag.
+ieee intelligent informatics bulletin
+ieee intelligent systems
+ieee internet computing
+ieee internet of things journal
+ieee j sel. topics in appl. earth observ. and remote sensing
+ieee j. biomedical and health informatics
+ieee j. emerg. sel. topics circuits syst.
+ieee j. robotics and automation
+ieee journal on selected areas in communications
+ieee micro
+ieee multimedia
+ieee network
+ieee p&dt
+ieee personal commun.
+ieee pervasive computing
+ieee robot. automat. mag.
+ieee robotics and automation letters
+ieee security & privacy
+ieee signal process. lett.
+ieee signal process. mag.
+ieee software
+ieee systems journal
+ieee technol. soc. mag.
+ieee trans. acoustics, speech, and signal processing
+ieee trans. aerospace and electronic systems
+ieee trans. affective computing
+ieee trans. audio, speech & language processing
+ieee trans. automat. contr.
+ieee trans. automation science and engineering
+ieee trans. autonomous mental development
+ieee trans. big data
+ieee trans. biomed. circuits and systems
+ieee trans. biomed. engineering
+ieee trans. circuits syst. video techn.
+ieee trans. cloud computing
+ieee trans. cogn. comm. & networking
+ieee trans. cognitive and developmental systems
+ieee trans. communications
+ieee trans. comput. intellig. and ai in games
+ieee trans. comput. social systems
+ieee trans. computational imaging
+ieee trans. computers
+ieee trans. consumer electronics
+ieee trans. contr. sys. techn.
+ieee trans. control of network systems
+ieee trans. cybernetics
+ieee trans. dependable sec. comput.
+ieee trans. education
+ieee trans. electronic computers
+ieee trans. emerging topics comput.
+ieee trans. emerging topics in comput. intellig.
+ieee trans. engineering management
+ieee trans. evolutionary computation
+ieee trans. fuzzy systems
+ieee trans. games
+ieee trans. geoscience and remote sensing
+ieee trans. haptics
+ieee trans. human-machine systems
+ieee trans. image processing
+ieee trans. industrial electronics
+ieee trans. industrial informatics
+ieee trans. information forensics and security
+ieee trans. information technology in biomedicine
+ieee trans. information theory
+ieee trans. instrumentation and measurement
+ieee trans. intelligent transportation systems
+ieee trans. intelligent vehicles
+ieee trans. knowl. data eng.
+ieee trans. med. imaging
+ieee trans. mob. comput.
+ieee trans. multi-scale computing systems
+ieee trans. multimedia
+ieee trans. network science and engineering
+ieee trans. network and service management
+ieee trans. neural netw. learning syst.
+ieee trans. neural networks
+ieee trans. parallel distrib. syst.
+ieee trans. pattern anal. mach. intell.
+ieee trans. prof. communication
+ieee trans. reliability
+ieee trans. robotics
+ieee trans. robotics and automation
+ieee trans. services computing
+ieee trans. signal processing
+ieee trans. signal and information processing over networks
+ieee trans. smart grid
+ieee trans. software eng.
+ieee trans. speech and audio processing
+ieee trans. systems science and cybernetics
+ieee trans. systems, man, and cybernetics
+ieee trans. systems, man, and cybernetics, part a
+ieee trans. systems, man, and cybernetics, part b
+ieee trans. systems, man, and cybernetics, part c
+ieee trans. systems, man, and cybernetics: systems
+ieee trans. vlsi syst.
+ieee trans. vehicular technology
+ieee trans. vis. comput. graph.
+ieee trans. wireless communications
+ieee trans. on cad of integrated circuits and systems
+ieee trans. on circuits and systems
+ieee wireless commun.
+ieee wireless commun. letters
+ieee-rita
+ieee/acm trans. audio, speech & language processing
+ieee/acm trans. comput. biology bioinform.
+ieee/acm trans. netw.
+ieice electronic express
+ieice transactions
+iet biometrics
+iet circuits, devices & systems
+iet communications
+iet computer vision
+iet computers & digital techniques
+iet cyper-phys. syst.: theory & appl.
+iet image processing
+iet information security
+iet networks
+iet signal processing
+iet software
+iet wireless sensor systems
+igtr
+ij3dim
+ijaac
+ijaacs
+ijabim
+ijac
+ijacdt
+ijaci
+ijact
+ijads
+ijaec
+ijaeis
+ijagr
+ijahuc
+ijaip
+ijaisc
+ijal
+ijalr
+ijamc
+ijantti
+ijaom
+ijaose
+ijapr
+ijapuc
+ijaras
+ijart
+ijat
+ijatem
+ijats
+ijavet
+ijbdcn
+ijbdi
+ijbic
+ijbidm
+ijbir
+ijbis
+ijbm
+ijbpim
+ijbpscm
+ijbra
+ijcac
+ijcaet
+ijcallt
+ijcat
+ijcbpl
+ijcc
+ijccbs
+ijcce
+ijcee
+ijcicg
+ijcih
+ijcini
+ijcip
+ijcis
+ijcistudies
+ijclclp
+ijcmam
+ijcnds
+ijcnis
+ijcns
+ijcopi
+ijcsa
+ijcse
+ijcsm
+ijcssa
+ijcvip
+ijcvr
+ijcwt
+ijcrc
+ijdar
+ijdats
+ijdc
+ijdcf
+ijde
+ijdet
+ijdldc
+ijdls
+ijdmb
+ijdmmm
+ijdsn
+ijdsst
+ijdst
+ijdtis
+ijdwm
+ijea
+ijeb
+ijebm
+ijebr
+ijeei
+ijegr
+ijeh
+ijehmc
+ijeis
+ijeoe
+ijep
+ijertcs
+ijes
+ijesdf
+ijesjp
+ijesma
+ijfsa
+ijgbl
+ijgc
+ijgcms
+ijgcrsis
+ijghpc
+ijguc
+ijhac
+ijhcitp
+ijhcr
+ijhisi
+ijhpca
+ijhpcn
+ijhpsa
+ijics
+ijicst
+ijict
+ijicte
+ijicthd
+ijictrda
+ijicot
+ijide
+ijids
+ijidss
+ijiei
+ijiids
+ijiip
+ijiit
+ijimai
+ijimr
+ijipm
+ijipsi
+ijipt
+ijiq
+ijira
+ijirr
+ijiscm
+ijiscram
+ijismd
+ijisp
+ijissc
+ijisscm
+ijisss
+ijista
+ijitbag
+ijitcc
+ijitm
+ijitn
+ijitpm
+ijitsa
+ijitwe
+ijkbo
+ijkdb
+ijkedm
+ijkesdp
+ijkl
+ijkm
+ijksr
+ijkss
+ijlt
+ijma
+ijmbl
+ijmc
+ijmcmc
+ijmdem
+ijmei
+ijmhci
+ijmheur
+ijmic
+ijmir
+ijmis
+ijmlo
+ijmmme
+ijmno
+ijmor
+ijmr
+ijmso
+ijmssc
+ijmstr
+ijmtie
+ijmtm
+ijnc
+ijncr
+ijndc
+ijngc
+ijnmc
+ijnvo
+ijoci
+ijom
+ijopcd
+ijoris
+ijossp
+ijpeds
+ijpop
+ijprai
+ijqaete
+ijrat
+ijrfita
+ijris
+ijrsda
+ijsccps
+ijsda
+ijsdir
+ijsds
+ijse
+ijseus
+ijshc
+ijsi
+ijsir
+ijsita
+ijskd
+ijsmile
+ijsn
+ijsnet
+ijsnm
+ijsnet
+ijsodit
+ijspm
+ijss
+ijssc
+ijssci
+ijsse
+ijssmet
+ijssoe
+ijsss
+ijstm
+ijt
+ijtd
+ijtem
+ijthi
+ijtm
+ijtmcc
+ijuc
+ijuwbcs
+ijvcsn
+ijvple
+ijvr
+ijwa
+ijwbc
+ijwgs
+ijwin
+ijwis
+ijwltt
+ijwmc
+ijwmip
+ijwnbt
+ijwp
+ijws
+ijec
+ima j. math. control & information
+impact comput. sci. eng.
+imwut
+infor
+informs journal on computing
+informs trans. education
+ipol journal
+ipsj trans. computer vision and applications
+ipsj trans. system lsi design methodology
+ire trans. electronic computers
+ire trans. information theory
+irmj
+is management
+isprs int. j. geo-information
+isse
+it & people
+it professional
+it for development
+ita
+itc
+itor
+itssa
+itcon
+iwbs report
+image vision comput.
+in silico biology
+industrial management and data systems
+industrial robot
+inf. & comput. security
+inf. comput.
+inf. manag. comput. security
+inf. process. lett.
+inf. process. manage.
+inf. res.
+inf. retr.
+inf. retr. journal
+inf. sci.
+inf. sec. techn. report
+inf. services and use
+inf. soc.
+inf. syst.
+inf. syst. e-business management
+inf. syst. j.
+inf. wiss. & praxis
+inform., forsch. entwickl.
+informatica (slovenia)
+informatica didactica
+informatica, lith. acad. sci.
+informatics
+informatics in education
+informatik spektrum
+information
+information & management
+information & software technology
+information economics and policy
+information fusion
+information polity
+information security journal: a global perspective
+information storage and retrieval
+information systems frontiers
+information systems research
+information systems security
+information technology and management
+information visualization
+information and control
+information and organization
+information, knowledge, systems management
+informingscij
+ingénierie des systèmes d'information
+inroads
+int j. information management
+int. arab j. inf. technol.
+int. arab j. e-technol.
+int. j. accounting inf. systems
+int. j. adv. comp. techn.
+int. j. applied earth observation and geoinformation
+int. j. approx. reasoning
+int. j. auton. comp.
+int. j. biomedical imaging
+int. j. communication systems
+int. j. comp. sci. sport
+int. j. comput. assist. radiol. surg.
+int. j. comput. geometry appl.
+int. j. comput. intell. syst.
+int. j. comput. linguistics appl.
+int. j. comput. math.
+int. j. comput. proc. oriental lang.
+int. j. comput. syst. signal
+int. j. computer games technology
+int. j. computer integrated manufacturing
+int. j. control
+int. j. cooperative inf. syst.
+int. j. data sci. anal.
+int. j. digital earth
+int. j. digital multimedia broadcasting
+int. j. electronic commerce
+int. j. found. comput. sci.
+int. j. fuzzy logic and intelligent systems
+int. j. fuzzy syst.
+int. j. game theory
+int. j. general systems
+int. j. hum. comput. interaction
+int. j. hum.-comput. stud.
+int. j. hybrid intell. syst.
+int. j. it standards and standardization res.
+int. j. image graphics
+int. j. imaging systems and technology
+int. j. inf. sec.
+int. j. intell. games & simulation
+int. j. intell. syst.
+int. j. intelligence science
+int. j. intelligent computing and cybernetics
+int. j. intelligent transportation systems research
+int. j. machine learning & cybernetics
+int. j. math. mathematical sciences
+int. j. neural syst.
+int. j. online biomed. eng.
+int. j. online eng.
+int. j. pervasive computing and communications
+int. j. reconfig. comp.
+int. j. satellite communications networking
+int. j. semantic computing
+int. j. semantic web inf. syst.
+int. j. serious games
+int. j. software and informatics
+int. j. systems assurance engineering and management
+int. j. systems science
+int. j. web eng. technol.
+int. j. web service res.
+int. j. of applied metaheuristic computing
+int. j. of asian lang. proc.
+int. j. on digital libraries
+int. journal in computer simulation
+int. journal of network management
+int. syst. in accounting, finance and management
+integrated computer-aided engineering
+integration
+inteligencia artificial, revista iberoamericana de inteligencia artificial
+intell. data anal.
+intelligence
+intelligent automation & soft computing
+intelligent decision technologies
+intelligent information management
+intelligent service robotics
+intelligent tutoring media
+intelligenza artificiale
+interact. techn. smart edu.
+interacting with computers
+interactions
+interactive learning environments
+interfaces
+international journal of computational engineering science
+international journal of computational intelligence and applications
+international journal of computer vision
+international journal of geographical information science
+international journal of geographical information systems
+international journal of high speed computing
+international journal of information technology and decision making
+international journal of internet and enterprise management
+international journal of man-machine studies
+international journal of parallel programming
+international journal of shape modeling
+international journal of software engineering and knowledge engineering
+international journal of uncertainty, fuzziness and knowledge-based systems
+international journal on artificial intelligence tools
+internet mathematics
+internet research
+internet technol. lett.
+internet of things
+ixd&a
+j. acm
+j. ais
+j. adv. eng. comput.
+j. adv. inf. fusion
+j. aerospace inf. sys.
+j. algorithms
+j. ambient intelligence and humanized computing
+j. appl. comput. topol.
+j. applied logic
+j. applied mathematics
+j. applied probability
+j. artif. intell. res.
+j. artif. intell. res. (jair)
+j. artif. intell. soft comput. res.
+j. artificial general intelligence
+j. artificial societies and social simulation
+j. autom. reasoning
+j. big data
+j. bioinformatics and computational biology
+j. biomedical semantics
+j. braz. comp. soc.
+j. cases on inf. techn.
+j. cellular automata
+j. cheminformatics
+j. classification
+j. clinical bioinformatics
+j. cloud computing
+j. cognitive neuroscience
+j. comb. optim.
+j. comb. theory, ser. a
+j. comb. theory, ser. b
+j. comm. inform. networks
+j. community informatics
+j. comp. assisted learning
+j. complex networks
+j. complexity
+j. comput. inf. sci. eng.
+j. comput. lang.
+j. comput. meth. in science and engineering
+j. comput. physics
+j. comput. res. dev.
+j. comput. sci. technol.
+j. comput. science
+j. comput. syst. sci.
+j. computational applied mathematics
+j. computational design and engineering
+j. computational engineering
+j. computer virology and hacking techniques
+j. computer-mediated communication
+j. computing in higher education
+j. control. sci. eng.
+j. cryptographic engineering
+j. cryptology
+j. cybersecurity
+j. data semantics
+j. data and information quality
+j. database manag.
+j. digit. inf.
+j. digital forensic practice
+j. digital imaging
+j. discrete algorithms
+j. economic theory
+j. electrical and computer engineering
+j. electron. commerce res.
+j. electron. publ.
+j. electronic imaging
+j. electronic testing
+j. embedded computing
+j. enterprise inf. management
+j. exp. theor. artif. intell.
+j. field robotics
+j. formalized reasoning
+j. franklin institute
+j. funct. program.
+j. geographic information system
+j. global optimization
+j. graph algorithms appl.
+j. graphics tools
+j. graphics, gpu, & game tools
+j. grid comput.
+j. hardware and systems security
+j. heuristics
+j. high speed networks
+j. imaging
+j. inf. sci.
+j. inf. sci. eng.
+j. inf. sec. appl.
+j. inf. technol. theory appl.
+j. inf., comm, ethics in society
+j. inform. and commun. convergence engineering
+j. information security
+j. information systems
+j. information telecommunication
+j. informetrics
+j. innovation in digital ecosystems
+j. instruction-level parallelism
+j. integrated design & process science
+j. integrative bioinformatics
+j. intell. inf. syst.
+j. intellig. transport. systems
+j. intelligent manufacturing
+j. intelligent systems
+j. internet serv. inf. secur.
+j. internet services and applications
+j. knowledge management
+j. language modelling
+j. location based services
+j. log. algebr. meth. program.
+j. log. algebr. program.
+j. log. comput.
+j. log. program.
+j. logic & analysis
+j. london math. society
+j. low power electronics
+j. mach. learn. res.
+j. math. model. algorithms
+j. math. model. algorithms in or
+j. mathematical cryptology
+j. mathematical logic
+j. media psychology
+j. medical systems
+j. mobile multimedia
+j. multimodal user interfaces
+j. multivariate analysis
+j. network syst. manage.
+j. network and computer applications
+j. nonlinear science
+j. num. math.
+j. open source software
+j. optimization theory and applications
+j. org. computing
+j. org. computing and e. commerce
+j. parallel distrib. comput.
+j. philosophical logic
+j. phonetics
+j. priv. confidentiality
+j. prog. lang.
+j. quantum information science
+j. real-time image processing
+j. reliable intelligent environments
+j. riga technical university
+j. robotics
+j. scheduling
+j. sci. comput.
+j. sci. res.
+j. sel. topics signal processing
+j. semantics
+j. sensor technology
+j. sensor and actuator networks
+j. sensors
+j. signal and information processing
+j. simulation
+j. software eng. r&d
+j. solid-state circuits
+j. spatial information science
+j. strategic inf. sys.
+j. symb. comput.
+j. symb. log.
+j. systems & control engineering
+j. systems science & complexity
+j. systems and it
+j. ucs
+j. vis. lang. comput.
+j. visual communication and image representation
+j. visualization
+j. web eng.
+j. web science
+j. web semant.
+j. of it & tourism
+j. of management information systems
+jacic
+jaciii
+jaise
+jamds
+jamia
+jasis
+jasist
+jcis
+jcit
+jcm
+jcp
+jcs
+jcse
+jdcta
+jdfsl
+jdim
+jdmdh
+jeco
+jetc
+jgim
+jidm
+jikm
+jilsa
+jip
+jips
+jise
+jit
+jite
+jitr
+jlcl
+jmpt
+jnc
+jnit
+jnw
+jocch
+joeuc
+jolis
+joop
+jors
+jrm
+jrnal
+jrtpm
+jsat
+jsea
+jsta
+jsw
+jtaer
+jthtl
+juspn
+jvrb
+jocg
+joss
+jossr
+jowua
+journal comp. netw. and communic.
+journal in computer virology
+journal of applied non-classical logics
+journal of approximation theory
+journal of automata, languages and combinatorics
+journal of biomedical informatics
+journal of chemical information and computer sciences
+journal of chemical information and modeling
+journal of chinese language and computing
+journal of circuits, systems, and computers
+journal of communications and networks
+journal of computational biology
+journal of computational chemistry
+journal of computational neuroscience
+journal of computer security
+journal of computer-aided molecular design
+journal of decision systems
+journal of documentation
+journal of functional and logic programming
+journal of geographical systems
+journal of graph theory
+journal of information, law and technology
+journal of intelligent and fuzzy systems
+journal of intelligent and robotic systems
+journal of interconnection networks
+journal of logic, language and information
+journal of mathematical imaging and vision
+journal of multimedia
+journal of object technology
+journal of quantitative linguistics
+journal of research and practice in information technology
+journal of social structure
+journal of software maintenance
+journal of software: evolution and process
+journal of systems architecture
+journal of systems architecture - embedded systems design
+journal of systems integration
+journal of systems and software
+journal of visualization and computer animation
+journal of wscg
+journal of zhejiang university - science c
+kes journal
+ki
+knowl. inf. syst.
+knowl.-based syst.
+knowledge eng. review
+kognitionswissenschaft
+kybernetes
+kybernetik
+kybernetika
+l'objet
+ldv forum
+lilog-memo
+lilog-report
+lites
+llc
+lncs trans. aspect oriented softw. dev.
+lncs trans. modul. compos.
+log in
+loplas
+language resources and evaluation
+language and linguistics compass
+learned publishing
+ledger
+library hi tech
+library trends
+linguamática
+lisp and symbolic computation
+logic & analysis
+logic journal of the igpl
+logica universalis
+logical methods in computer science
+logistics research
+masa
+mcfns
+mcss
+mis quarterly
+mis quarterly executive
+mmi interaktiv
+monet
+mach. vis. appl.
+machine learning
+machine learning and knowledge extraction
+machine translation
+management science
+manufacturing & service operations management
+marketing science
+markup languages
+math. comput.
+math. log. q.
+math. meth. of or
+math. oper. res.
+math. program.
+math. program. comput.
+mathematical social sciences
+mathematical structures in computer science
+mathematical systems theory
+mathematical and computer modelling
+mathematics and computers in simulation
+mathematics in computer science
+mech. translat. & comp. linguistics
+mechanical translation
+mechatronic systems and control
+med. biol. engineering and computing
+medical image analysis
+memetic computing
+meth. of logic in cs
+microelectronics journal
+microelectronics reliability
+micromachines
+microprocessing and microprogramming
+microprocessors
+microprocessors and microsystems
+microprocessors and microsystems - embedded hardware design
+minds and machines
+mobile computing and communications review
+mobile information systems
+modulad
+monte carlo meth. and appl.
+multiagent and grid systems
+multidim. syst. sign. process.
+multimedia syst.
+multimedi

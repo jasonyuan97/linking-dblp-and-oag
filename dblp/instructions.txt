@@ -1,0 +1,12 @@
+Reference: https://dblp.org/faq/Extracting+data+from+dblp
+
+wget http://dblp.org/src/DblpExampleParser.java \
+	http://dblp.org/src/mmdb-2019-04-29.jar \
+	http://dblp.org/xml/release/dblp-2019-12-01.xml.gz \
+	http://dblp.org/xml/release/dblp-2019-11-22.dtd
+
+gunzip dblp-2019-12-01.xml.gz
+
+javac -cp mmdb-2019-04-29.jar Parser.java
+
+java -Xmx8G -cp mmdb-2019-04-29.jar:. Parser dblp-2019-12-01.xml dblp-2019-11-22.dtd
