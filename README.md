@@ -4,6 +4,7 @@ A project of linking two knowledege graphs, dblp and OAG (Open Academic Graph).
 ```
 # for direct linking
 python 3.6.7 
+
 # for LinKG
 TensorFlow GPU >= 1.14
 NVIDIA GPU + CUDA cuDNN
