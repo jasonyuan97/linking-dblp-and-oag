@@ -16,12 +16,22 @@ def load_data(oag_path, dblp_path):
     return oag_map, dblp_map
 
 def pair(oag_map, dblp_map):
-    with open("linked_venue_pairs1.txt", "w") as target:
+    with open("linked_venue_pairs2.txt", "w") as target:
         # directly compare two names
         for d_venue in list(dblp_map.keys()):
             if d_venue in oag_map:
                 dictionary = {"did": dblp_map.pop(d_venue), "oid": oag_map.pop(d_venue)}
                 target.write(str(dictionary)+"\n") 
+
+        # to handle abbrevations
+        for d_venue in list(dblp_map.keys()):
+            d_venue = d_venue.strip().lower()
+            for o_venue in list(oag_map.keys()):
+                o_venue = o_venue.strip().lower()
+                if equals(d_venue, o_venue):
+                    dictionary = {"did": dblp_map.pop(d_venue), "oid": oag_map.pop(o_venue)}
+                    target.write(str(dictionary)+"\n") 
+                    break
                     
 def equals(d_venue, o_venue):
     if o_venue[0]!=d_venue[0]:
